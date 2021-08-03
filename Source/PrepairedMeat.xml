@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="MealCooked">
+    <defName>SCMeat</defName>
+    <label>Processed Meat</label>
+    <description>Processed meat, ready for storage or cooking.</description>
+    <graphicData>
+      <texPath>Things/Item/Prepared_Meat/SCMeat</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <DeteriorationRate>20</DeteriorationRate>
+      <MarketValue>2.70</MarketValue>
+      <WorkToMake>50</WorkToMake>
+      <Nutrition>0.05</Nutrition>
+      <Mass>0.03</Mass>
+    </statBases>
+    <ingestible>
+      <preferability>DesperateOnly</preferability>
+      <ingestEffect>EatMeat</ingestEffect>
+      <ingestSound>RawMeat_Eat</ingestSound>
+    </ingestible>
+  </ThingDef>
+</Defs>

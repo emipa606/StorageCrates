@@ -1,0 +1,144 @@
+8/4/19 1.18.2 > 1.9.9B
+*NOTE: This update has potential to break prior saves containing removed items listed below, however if you load the save, save and reload it should fix itself (but you lose the removed crates though), but no guarantee* 
+
+-Updated from B18 to 1.0 Full Release (so many changes , maybe some bugs)
+-Reworked leather crates entirely to align with 1.0 release (some added leather some removed from the game)
+-Removed Meat/Veggie Cans and their crate (Used the potential save break point to clean up a rather redundant and out of place feature for the mod, Processed meat remains as a way to generalize/cleanup various meat for crates though, but this mod will be more storage focused from here forward, plenty of mods to do things with food and maybe support for those in the future ;) )
+-Disabled Freighters for now
+~TODO: 
+	Update Graphics for "all the things"
+	Double Check market values
+	Fix the Freighters
+Sorry for the loooong delay, new job and study, and all that. Report any issues to steam comments plz, thx. 
+
+3/23/2018 1.18.1 > 1.18.2
+-Fixed Chemfuel Barrels to explode as they should (Thanks White Wizard from Steam comments for the report!)
+-Pushed Russian Translation Update (Thanks to the awesome Bugo from github!)
+-found and fixed gold crate changes and typo not sync'd to github (for some reason it did not push on those select changes to github)
+
+2/11/2018 1.18.0 > 1.18.1
+-Added Chemfuel Barrels (make sure to be careful with these)
+-Adjusted Gold Crate to new ratios, now packs 250 instead of 500
+
+12/12/2017 1.17.0 > 1.18.0
+-Updated for Beta 18
+
+8/30/2017 1.16.0 > 1.17.0
+-Updated for Alpha 17
+-Adjusted drug crate weight to reflect the new drug weights
+
+12/22/2016 1.15.4a> 1.16.0
+-Updated for Alpha 16
+-Added weight values to Crates and the Steel Crate Plates (total weight of all 75 items + steel crate plates used in production)
+-Added Mortar Shell Crate (only 25 per crate cause they are heavy!)
+-Adjusted prices for drug crates to match the Alpha 16 drug price changes
+-Renamed Megatherium Leather Crate to Megasloth Leather Crate
+***-I would like to thank the following people for helping me update compatibility for Alpha 16
+mrofa
+NotFood
+Fluffy
+erdelf
+Dingo
+Zhentar
+***-I would also like to thank the rimworld modding scene and modding discord in general!
+
+11/27/2016 1.15.4 > 1.15.4a
+-More ongoing updates to RU language support (thanks so much to Bugo, all their work 100%)
+-Fixed market value typo ( from , to . and thanks to Vincent on steam comments for the find)
+-Adjusted Freighter cargo values from Expensive to Normal to balance prices a little more
+	(Few reports came in that prices was too high, too easy to make tons of money, thanks for the feedback!)
+-Added Steel Crate Plate breakdown recipe @ 0% loss for now
+-Rename Packing/Unpacking Benches for better clarification (Names subject to further change)
+	Basic Packing Bench > Packing Bench
+	Basic Unpacking bench > Unpacking Bench
+	Basic Food Packing Bench > Consumables Packing Bench
+	Basic Food Unpacking Bench > Consumables Unpacking Bench
+
+9/21/16 1.15.3a> 1.15.4
+-Added various types of Freighters (Regular and Supply) for selling/buying crates (may need/get more balance)
+-Added temporary icons for the resource menu in the top left 
+-Changed crate groups and parrent groups for better organized top left resource menu
+-Added visual damage to the packing benches
+-Changed packing benches to be moveable/uninstall/install so you can move them around
+
+9/16/16 1.15.3 > 1.15.3a
+-Fixed Processed Meat being consumed before cooked Meals (evidently RawBad prefer is better than Meal??)
+-Adjusted the remaining crate values to include the Steel Crate Plates (+60 Value)
+
+9/11/16 1.15.2 > 1.15.3
+-Removed Unpacking of Specific Meat Crates to finish migration to new meat packing method.
+-Changed name Steel Plates > Steel Crate Plates (may change the name in future)
+-Fixed Meat Cans being improperly allowed for Vegetarian consumption.
+-Added Vegetable Meat Stew cooking recipe using meat/veg cans, two versions cook 1 or cook 5 (5 is more work efficient)
+-Added leather crates for the following: 
+Deer,Pig,Cow,Turkey,Alpaca,Elk,Elephant,Megatherium,Timberwolf,ArticWolf,FennecFox,RedFox,ArticFox
+-Added temporary placeholder texture for leather crates.
+-Disabled Force Unpack for the time being.
+-Removed Redundant unused graphics
+
+9/4/16 1.15.1a> 1.15.2
+-Added recipe to butcher table to make Processed Meat (25 of Any Raw Meat > 25 Processed Meat)
+-Added additional crates: Processed Meat
+-Disable specific meat packing.
+*NOTICE: The current plan is to remove specific meat type crates. 
+         Please prepair any savegames by unpacking any specific meat crates
+         and merge to the new system by making and crateing the Processed Meat.
+         Any feedback on this change please post on the forum. Thanks
+
+9/1/16 1.15.1 > 1.15.1a
+-Hotfix for Force-Unpack graphic not being loaded correctly
+-Fixed a typo with a backend crate name
+-Added in a Preview.png file for the mod selection window.
+-Changed the rest of the refrences to Ryoichi > l2evy
+
+8/31/16 1.15.0 > 1.15.1
+-WARNING: This release will work ONLY for Alpha 15C and Forward! It will not work with Alpha 15 or 15b.
+-Fixed issue in the DLL which caused textures to bug when reloading from a save (BIG THANKS to mrofa and others on the mod help topic)
+-Added Support for Drugs
+
+8/29/16 1.14.0 > 1.15.0
+-Updated Mod for Alpha 15
+-NOTE: This version is now depreciated and no longer useable due to bug in main Alpha that needs 15C and forward to function
+
+8/29/16 1.03 > 1.14.0
+-Updated Mod for Alpha 14
+-Version number change, 1.XX.Y, XX= Game Version, Y=Mod Version Number
+-Removed option to pack/unpack mega scarab meat due to Alpha 14 meat system slight change, may be fixed in later update
+
+4/24/16 1.02a > 1.03
+-Fixed crazy hording colonist bug with the food cans....for good this time..hopefully
+-Fixed canning food to use 2 cans and give 2 cans instead of taking 1 can and magically making 2
+-Changed Steel requirements for making Steel Plates, Now uses 4 steel and makes 5 plates
+-Changed Steel Plate requirements for making Empty Cans, Now uses 1 plate and makes 25 empty cans
+-Changed Basic/Food Packing benches to benefit from Tool cabinet's and also enabled breakdowns (Will balance work time soon).
+-Added changelog.txt for anyone who wishes to just download and read a txt file after.
+
+*~Next Update 1.04 Plans: This was a sooner update than planned due to some bugs needing fixed. Next update is unknown
+at this point but maybe more balance changes. Will go back to brainstorming about graphics changes, wooden crates, and 
+other things. Will try and do a bigger update provided no bugs, and maybe release everything all at once.
+
+4/23/16: 1.01 > 1.02
+-Fixed the facepalm xml version edit...*facepalm again*
+-Fixed a crate packing error with veg/meat cans (wrong packing number).
+-Fixed meat/veg food can nutrition values, value was incorrectly set above the limit which made it 0. (May need balanced)
+-Fixed error with meat/veg food can crates. After crafting got stuck in a loop of not able to place anywhere.
+-The workbenches are now flickable.
+4/23/16: 1.02>1.02a Hotfix
+-Fixed bug with colonist picking up hundreds of canned food into their inventory.
+
+*~Next Update 1.03 Plans: Still unknown status on the sub menu ability for workbenches. I will post in the mod 
+help section sometime to clarify but I think it may not be possible. More graphics and maybe support for a few 
+things from the new updates 12 and 13, meat and materials from the animals. Might go over a few balance changes 
+like the steel crates getting added to the value of the crates of goods.
+
+4/15/16: 1.0 > 1.01
+-Crates now give back 100% of the Steel Plates when unpacking.
+-Mod name changed from Resource Kompression to Storage Crates for better clarity.
+-Added Google Drive and Dropbox file links, eventually will add Nexus to the list.
+-Edited Description to be more helpful and informative.
+-Starting to redo and organize mod thread to be cleaner and eventually will have tons of images and look fancy, in time.
+
+*~Next Update v1.02 Plans: Figure out possibility of adding sub menu's to packing/unpacking cause it will go 
+off the screen when I finish adding in support for Alpha 12 and 13's items.
+
+4/10/16: Updated mod from 11b > 13

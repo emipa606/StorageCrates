@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Minerals -->
+  <makeSteelCrate.label>Упаковать сталь (75)</makeSteelCrate.label>
+  <makeSteelCrate.description>Упаковать 75 стали в контейнер.</makeSteelCrate.description>
+  <makeSteelCrate.jobString>Упаковывает.</makeSteelCrate.jobString>
+  <makeGoldCrate.label>Упаковать золото (500)</makeGoldCrate.label>
+  <makeGoldCrate.description>Упаковать 500 золотых самородков в контейнер.</makeGoldCrate.description>
+  <makeGoldCrate.jobString>Упаковывает.</makeGoldCrate.jobString>
+  <makeWoodCrate.label>Упаковать дерево (75)</makeWoodCrate.label>
+  <makeWoodCrate.description>Упаковать 75 брёвен в контейнер.</makeWoodCrate.description>
+  <makeWoodCrate.jobString>Упаковывает.</makeWoodCrate.jobString>
+  <makePlasteelCrate.label>Упаковать пласталь (75)</makePlasteelCrate.label>
+  <makePlasteelCrate.description>Упаковать 75 пластали в контейнер.</makePlasteelCrate.description>
+  <makePlasteelCrate.jobString>Упаковывает.</makePlasteelCrate.jobString>
+  <makeUraniumCrate.label>Упаковать уран (80)</makeUraniumCrate.label>
+  <makeUraniumCrate.description>Упаковать 80 кусочков урана в контейнер.</makeUraniumCrate.description>
+  <makeUraniumCrate.jobString>Упаковывает.</makeUraniumCrate.jobString>
+  <!-- Stones -->
+  <makeSandstoneCrate.label>Упаковать песчаник (75)</makeSandstoneCrate.label>
+  <makeSandstoneCrate.description>Упаковать 75 блоков песчаника в контейнер.</makeSandstoneCrate.description>
+  <makeSandstoneCrate.jobString>Упаковывает.</makeSandstoneCrate.jobString>
+  <makeGraniteCrate.label>Упаковать гранит (75)</makeGraniteCrate.label>
+  <makeGraniteCrate.description>Упаковать 75 блоков гранита в контейнер.</makeGraniteCrate.description>
+  <makeGraniteCrate.jobString>Упаковывает.</makeGraniteCrate.jobString>
+  <makeLimestoneCrate.label>Упаковать известняк (75)</makeLimestoneCrate.label>
+  <makeLimestoneCrate.description>Упаковать 75 блоков известняка в контейнер.</makeLimestoneCrate.description>
+  <makeLimestoneCrate.jobString>Упаковывает.</makeLimestoneCrate.jobString>
+  <makeSlateCrate.label>Упаковать сланец (75)</makeSlateCrate.label>
+  <makeSlateCrate.description>Упаковать 75 блоков сланца в контейнер.</makeSlateCrate.description>
+  <makeSlateCrate.jobString>Упаковывает.</makeSlateCrate.jobString>
+  <makeMarbleCrate.label>Упаковать мрамор (75)</makeMarbleCrate.label>
+  <makeMarbleCrate.description>Упаковать 75 мраморных блоков в контейнер.</makeMarbleCrate.description>
+  <makeMarbleCrate.jobString>Упаковывает.</makeMarbleCrate.jobString>
+  <!-- Cloth_Materials -->
+  <makeClothCrate.label>Упаковать ткань (75)</makeClothCrate.label>
+  <makeClothCrate.description>Упаковать 75 ткани в контейнер.</makeClothCrate.description>
+  <makeClothCrate.jobString>Упаковывает.</makeClothCrate.jobString>
+  <makeSynthreadCrate.label>Упаковать синткань (75)</makeSynthreadCrate.label>
+  <makeSynthreadCrate.description>Упаковать 75 синткани в контейнер.</makeSynthreadCrate.description>
+  <makeSynthreadCrate.jobString>Упаковывает.</makeSynthreadCrate.jobString>
+  <makeHyperwaveCrate.label>Упаковать гиперткань (75)</makeHyperwaveCrate.label>
+  <makeHyperwaveCrate.description>Упаковать 75 гиперткани в контейнер.</makeHyperwaveCrate.description>
+  <makeHyperwaveCrate.jobString>Упаковывает.</makeHyperwaveCrate.jobString>
+  <makeDevilstrandCrate.label>Упаковать дьявлоткань (75)</makeDevilstrandCrate.label>
+  <makeDevilstrandCrate.description>Упаковать 75 дьявлоткани в контейнер.</makeDevilstrandCrate.description>
+  <makeDevilstrandCrate.jobString>Упаковывает.</makeDevilstrandCrate.jobString>
+  <!-- Leather/Hide -->
+  <makeTurkeyLeatherCrate.label>Упаковать шкуры индеек (75)</makeTurkeyLeatherCrate.label>
+  <makeTurkeyLeatherCrate.description>Упаковать 75 шкур индеек в контейнер.</makeTurkeyLeatherCrate.description>
+  <makeTurkeyLeatherCrate.jobString>Упаковывает.</makeTurkeyLeatherCrate.jobString>
+  <makeAlpacaLeatherCrate.label>Упаковать шкуры альпака (75)</makeAlpacaLeatherCrate.label>
+  <makeAlpacaLeatherCrate.description>Упаковать 75 шкур альпака в контейнер.</makeAlpacaLeatherCrate.description>
+  <makeAlpacaLeatherCrate.jobString>Упаковывает.</makeAlpacaLeatherCrate.jobString>
+  <makePigLeatherCrate.label>Упаковать свиные кожи (75)</makePigLeatherCrate.label>
+  <makePigLeatherCrate.description>Упаковать 75 свиных кож в контейнер.</makePigLeatherCrate.description>
+  <makePigLeatherCrate.jobString>Упаковывает.</makePigLeatherCrate.jobString>
+  <makeCowLeatherCrate.label>Упаковать коровьи шкуры (75)</makeCowLeatherCrate.label>
+  <makeCowLeatherCrate.description>Упаковать 75 коровьих шкур в контейнер.</makeCowLeatherCrate.description>
+  <makeCowLeatherCrate.jobString>Упаковывает.</makeCowLeatherCrate.jobString>
+  <makeElephantLeatherCrate.label>Упаковать слоновьи шкуры (75)</makeElephantLeatherCrate.label>
+  <makeElephantLeatherCrate.description>Упаковать 75 слоновьих шкур в контейнер.</makeElephantLeatherCrate.description>
+  <makeElephantLeatherCrate.jobString>Упаковывает.</makeElephantLeatherCrate.jobString>
+  <makeDeerLeatherCrate.label>Упаковать оленьи шкуры (75)</makeDeerLeatherCrate.label>
+  <makeDeerLeatherCrate.description>Упаковать 75 оленьих шкур в контейнер.</makeDeerLeatherCrate.description>
+  <makeDeerLeatherCrate.jobString>Упаковывает.</makeDeerLeatherCrate.jobString>
+  <makeMegaslothLeatherCrate.label>Упаковать шкуры ленивцев (75)</makeMegaslothLeatherCrate.label>
+  <makeMegaslothLeatherCrate.description>Упаковать 75 шкур ленивцев в контейнер.</makeMegaslothLeatherCrate.description>
+  <makeMegaslothLeatherCrate.jobString>Упаковывает.</makeMegaslothLeatherCrate.jobString>
+  <makeElkLeatherCrate.label>Упаковать лосиные шкуры (75)</makeElkLeatherCrate.label>
+  <makeElkLeatherCrate.description>Упаковать 75 лосиных шкур в контейнер.</makeElkLeatherCrate.description>
+  <makeElkLeatherCrate.jobString>Упаковывает.</makeElkLeatherCrate.jobString>
+  <makeTimberwolfLeatherCrate.label>Упаковать волчьи шкуры (75)</makeTimberwolfLeatherCrate.label>
+  <makeTimberwolfLeatherCrate.description>Упаковать 75 волчьих шкур в контейнер.</makeTimberwolfLeatherCrate.description>
+  <makeTimberwolfLeatherCrate.jobString>Упаковывает.</makeTimberwolfLeatherCrate.jobString>
+  <makeArcticwolfLeatherCrate.label>Упаковать снеговолчьи шкуры (75)</makeArcticwolfLeatherCrate.label>
+  <makeArcticwolfLeatherCrate.description>Упаковать 75 снеговолчьих шкур в контейнер.</makeArcticwolfLeatherCrate.description>
+  <makeArcticwolfLeatherCrate.jobString>Упаковывает.</makeArcticwolfLeatherCrate.jobString>
+  <makeFennecfoxLeatherCrate.label>Упаковать шкуры фенеков (75)</makeFennecfoxLeatherCrate.label>
+  <makeFennecfoxLeatherCrate.description>Упаковать 75 шкур фенеков в контейнер.</makeFennecfoxLeatherCrate.description>
+  <makeFennecfoxLeatherCrate.jobString>Упаковывает.</makeFennecfoxLeatherCrate.jobString>
+  <makeRedfoxLeatherCrate.label>Упаковать лисьи шкуры (75)</makeRedfoxLeatherCrate.label>
+  <makeRedfoxLeatherCrate.description>Упаковать 75 лисьих шкур в контейнер.</makeRedfoxLeatherCrate.description>
+  <makeRedfoxLeatherCrate.jobString>Упаковывает.</makeRedfoxLeatherCrate.jobString>
+  <makeArcticfoxLeatherCrate.label>Упаковать песцовые шкуры (75)</makeArcticfoxLeatherCrate.label>
+  <makeArcticfoxLeatherCrate.description>Упаковать 75 песцовых шкур в контейнер.</makeArcticfoxLeatherCrate.description>
+  <makeArcticfoxLeatherCrate.jobString>Упаковывает.</makeArcticfoxLeatherCrate.jobString>
+  <!-- Herbi -->
+  <makePotatoCrate.label>Упаковать картофель (75)</makePotatoCrate.label>
+  <makePotatoCrate.description>Упаковать 75 картофеля в контейнер.</makePotatoCrate.description>
+  <makePotatoCrate.jobString>Упаковывает.</makePotatoCrate.jobString>
+  <makeBerryCrate.label>Упаковать ягоды (75)</makeBerryCrate.label>
+  <makeBerryCrate.description>Упаковать 75 ягод в контейнер.</makeBerryCrate.description>
+  <makeBerryCrate.jobString>Упаковывает.</makeBerryCrate.jobString>
+  <makeAgaveCrate.label>Упаковать агаву (75)</makeAgaveCrate.label>
+  <makeAgaveCrate.description>Упаковать 75 плодов агавы в контейнер.</makeAgaveCrate.description>
+  <makeAgaveCrate.jobString>Упаковывает.</makeAgaveCrate.jobString>
+  <makeHopsCrate.label>Упаковать хмель (75)</makeHopsCrate.label>
+  <makeHopsCrate.description>Упаковать 75 хмеля в контейнер.</makeHopsCrate.description>
+  <makeHopsCrate.jobString>Упаковывает.</makeHopsCrate.jobString>
+  <makeRiceCrate.label>Упаковать рис (75)</makeRiceCrate.label>
+  <makeRiceCrate.description>Упаковать 75 риса в контейнер.</makeRiceCrate.description>
+  <makeRiceCrate.jobString>Упаковывает.</makeRiceCrate.jobString>
+  <makeCornCrate.label>Упаковать кукурузу (75)</makeCornCrate.label>
+  <makeCornCrate.description>Упаковать 75 кукурузы в контейнер.</makeCornCrate.description>
+  <makeCornCrate.jobString>Упаковывает.</makeCornCrate.jobString>
+  <makeMeatCanCrate.label>Упаковать мясные консервы (75)</makeMeatCanCrate.label>
+  <makeMeatCanCrate.description>Упаковать 75 мясных консервов в контейнер.</makeMeatCanCrate.description>
+  <makeMeatCanCrate.jobString>Упаковывает консервы.</makeMeatCanCrate.jobString>
+  <makeVeggiesCanCrate.label>Упаковать овощные консервы (75)</makeVeggiesCanCrate.label>
+  <makeVeggiesCanCrate.description>Упаковать 75 овощных консервов в контейнер.</makeVeggiesCanCrate.description>
+  <makeVeggiesCanCrate.jobString>Упаковывает консервы.</makeVeggiesCanCrate.jobString>
+  <!-- _Drugs_ -->
+  <makeSmokeleafJointCrate.label>Упаковать листья дымолиста (75)</makeSmokeleafJointCrate.label>
+  <makeSmokeleafJointCrate.description>Упаковать 75 листьев дымолиста в контейнер.</makeSmokeleafJointCrate.description>
+  <makeSmokeleafJointCrate.jobString>Упаковывает.</makeSmokeleafJointCrate.jobString>
+  <makeYayoCrate.label>Упаковать порошок психина (75)</makeYayoCrate.label>
+  <makeYayoCrate.description>Упаковать 75 порошка психина в контейнер.</makeYayoCrate.description>
+  <makeYayoCrate.jobString>Упаковывает.</makeYayoCrate.jobString>
+  <makeGoJuiceCrate.label>Упаковать озверин (75)</makeGoJuiceCrate.label>
+  <makeGoJuiceCrate.description>Упаковать 75 озверина в контейнер.</makeGoJuiceCrate.description>
+  <makeGoJuiceCrate.jobString>Упаковывает.</makeGoJuiceCrate.jobString>
+  <makeLuciferiumCrate.label>Упаковать сатанин (75)</makeLuciferiumCrate.label>
+  <makeLuciferiumCrate.description>Упаковать 75 таблеток сатанина в контейнер.</makeLuciferiumCrate.description>
+  <makeLuciferiumCrate.jobString>Упаковывает.</makeLuciferiumCrate.jobString>
+  <makePenoxycylineCrate.label>Упаковать пеноксициклин (75)</makePenoxycylineCrate.label>
+  <makePenoxycylineCrate.description>Упаковать 75 таблеток пеноксициклина в контейнер.</makePenoxycylineCrate.description>
+  <makePenoxycylineCrate.jobString>Упаковывает.</makePenoxycylineCrate.jobString>
+  <makeFlakeCrate.label>Упаковать хлопья психина (75)</makeFlakeCrate.label>
+  <makeFlakeCrate.description>Упаковать 75 хлопьев психина в контейнер.</makeFlakeCrate.description>
+  <makeFlakeCrate.jobString>Упаковывает.</makeFlakeCrate.jobString>
+  <makeWakeUpCrate.label>Упаковать бодрин (75)</makeWakeUpCrate.label>
+  <makeWakeUpCrate.description>Упаковать 75 бодрина в контейнер.</makeWakeUpCrate.description>
+  <makeWakeUpCrate.jobString>Упаковывает.</makeWakeUpCrate.jobString>
+  <!-- Drug Material Packing -->
+  <makePsychoidLeavesCrate.label>Упаковать листья психолиста (75)</makePsychoidLeavesCrate.label>
+  <makePsychoidLeavesCrate.description>Упаковать 75 листьев психолиста в контейнер.</makePsychoidLeavesCrate.description>
+  <makePsychoidLeavesCrate.jobString>Упаковывает.</makePsychoidLeavesCrate.jobString>
+  <makeSmokeleafLeavesCrate.label>Упаковать листья дымолиста (75)</makeSmokeleafLeavesCrate.label>
+  <makeSmokeleafLeavesCrate.description>Упаковать 75 листьев дымолиста в контейнер.</makeSmokeleafLeavesCrate.description>
+  <makeSmokeleafLeavesCrate.jobString>Упаковывает.</makeSmokeleafLeavesCrate.jobString>
+  <!-- Food_Meat -->
+  <makeMeatCrate.label>Упаковать мясной фарш (75)</makeMeatCrate.label>
+  <makeMeatCrate.description>Упаковать 75 мясного фарша в контейнер.</makeMeatCrate.description>
+  <makeMeatCrate.jobString>Упаковывает.</makeMeatCrate.jobString>
+  <makeChemfuelCrate.label>Поместить химическое топливо (75) в бочонок</makeChemfuelCrate.label>
+  <makeChemfuelCrate.description>Поместить 75 единиц химического топлива в бочонок.</makeChemfuelCrate.description>
+  <makeChemfuelCrate.jobstring>Закупоривает бочонок с топливом.</makeChemfuelCrate.jobstring>
+</LanguageData>
