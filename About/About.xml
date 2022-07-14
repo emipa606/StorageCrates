@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Storage Crates (Continued)</name>
   <packageId>Mlie.StorageCrates</packageId>
@@ -12,23 +12,27 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of 1.0+: l2evys mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=756216922
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
         [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/StorageCrates][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 [h1]Change Log:[/h1]
 
-8/4/19 1.18.2 &gt; 1.9.9B
+8/4/19 1.18.2  1.9.9B
 [h1][b]*NOTE: This update has potential to break prior saves containing removed items listed below, however if you load the save, save and reload it should fix itself (but you lose the removed crates though), but no guarantee*  [/b] [/h1]
 
 [i]-Updated from B18 to 1.0 Full Release (so many changes , maybe some bugs)
@@ -36,15 +40,15 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=756216922
 -Removed Meat/Veggie Cans and their crate (Used the potential save break point to clean up a rather redundant and out of place feature for the mod, Processed meat remains as a way to generalize/cleanup various meat for crates though, but this mod will be more storage focused from here forward, plenty of mods to do things with food and maybe support for those in the future ;) )
 -Disabled Freighters for now
 ~TODO: 
-	Update Graphics for &quot;all the things&quot;
+	Update Graphics for "all the things"
 	Double Check market values
 	Fix the Freighters [/i]
 Sorry for the loooong delay, new job and study, and all that. Report any issues to steam comments plz, thx.
 
-[b]3/23/2018 1.18.1 &gt; 1.18.2[/b]
+[b]3/23/2018 1.18.1  1.18.2[/b]
 [i]-Fixed Chemfuel Barrels to explode as they should (Thanks White Wizard from Steam comments for the report!)
    -Pushed Russian Translation Update (Thanks to the awesome Bugo from github!)
-   -found and fixed gold crate changes and typo not sync&apos;d to github (for some reason it did not push on those select changes to github)[/i]
+   -found and fixed gold crate changes and typo not sync'd to github (for some reason it did not push on those select changes to github)[/i]
 
    [h1] :::::Mod Description (WIP):::::[/h1]
 
@@ -69,7 +73,7 @@ Sorry for the loooong delay, new job and study, and all that. Report any issues 
       Steel Crate Plates + Machining Table = Can, Can + Butcher Table + 5 meat or veggies = Meal Can
 
    [b]Meat Packing Process:[/b]
-    Any Raw Meat + Butcher Table &quot;Prepair Meat&quot; = Processed Meat
+    Any Raw Meat + Butcher Table "Prepair Meat" = Processed Meat
     Processed Meat (75) + 6 Steel Crate Plates = 1 Processed Meat Crate
 
     [h1]*******Notice******** [/h1]
@@ -79,7 +83,7 @@ Sorry for the loooong delay, new job and study, and all that. Report any issues 
                       [b][u]To fix this please try the following:[/u][/b]
 
     1: Please unsub from the mod, go into your steam folder: 
-    Steam &gt; steamapps &gt; workshop &gt; content &gt; 294100
+    Steam  steamapps  workshop  content  294100
     
     2: If there is a folder inside named 756216922, Please delete it
     
@@ -95,13 +99,10 @@ Sorry for the loooong delay, new job and study, and all that. Report any issues 
     [i]Special thanks to Nasikabatrachus for the original idea
     Developement : 1.0: Nirahiel, 1.0+: l2evy
     Textures : 1.0:mrofa , 1.0+: l2evy
-    *Updated for Rimworld 11b&gt;15c+ and now maintained by : l2evy
+    *Updated for Rimworld 11b15c+ and now maintained by : l2evy
     Russian Language support by Bugo via GitHub[/i]
 
-[h1][url=https://www.patreon.com/user?u=3208157&amp;ty=h&amp;u=3208157]I play with code for free as one of my many hobbies, but if you wanna buy me a pizza 
-or something, here is my Patreon.[/url][/h1]
-
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -112,4 +113,3 @@ or something, here is my Patreon.[/url][/h1]
 [/list]
 </description>
 </ModMetaData>
-
