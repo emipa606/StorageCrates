@@ -1,19 +1,19 @@
 # StorageCrates
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of 1.0+: l2evys mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=756216922
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 # Change Log:
 
 
-8/4/19 1.18.2 &gt; 1.9.9B
+8/4/19 1.18.2  1.9.9B
 # ***NOTE: This update has potential to break prior saves containing removed items listed below, however if you load the save, save and reload it should fix itself (but you lose the removed crates though), but no guarantee*  ** 
 
 
@@ -22,15 +22,15 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=756216922
 -Removed Meat/Veggie Cans and their crate (Used the potential save break point to clean up a rather redundant and out of place feature for the mod, Processed meat remains as a way to generalize/cleanup various meat for crates though, but this mod will be more storage focused from here forward, plenty of mods to do things with food and maybe support for those in the future ;) )
 -Disabled Freighters for now
 ~TODO: 
-	Update Graphics for &quot;all the things&quot;
+	Update Graphics for "all the things"
 	Double Check market values
 	Fix the Freighters *
 Sorry for the loooong delay, new job and study, and all that. Report any issues to steam comments plz, thx.
 
-**3/23/2018 1.18.1 &gt; 1.18.2**
+**3/23/2018 1.18.1  1.18.2**
 *-Fixed Chemfuel Barrels to explode as they should (Thanks White Wizard from Steam comments for the report!)
    -Pushed Russian Translation Update (Thanks to the awesome Bugo from github!)
-   -found and fixed gold crate changes and typo not sync&apos;d to github (for some reason it did not push on those select changes to github)*
+   -found and fixed gold crate changes and typo not sync'd to github (for some reason it did not push on those select changes to github)*
 
    #  :::::Mod Description (WIP):::::
 
@@ -56,7 +56,7 @@ Sorry for the loooong delay, new job and study, and all that. Report any issues 
       Steel Crate Plates + Machining Table = Can, Can + Butcher Table + 5 meat or veggies = Meal Can
 
    **Meat Packing Process:**
-    Any Raw Meat + Butcher Table &quot;Prepair Meat&quot; = Processed Meat
+    Any Raw Meat + Butcher Table "Prepair Meat" = Processed Meat
     Processed Meat (75) + 6 Steel Crate Plates = 1 Processed Meat Crate
 
     # *******Notice******** 
@@ -67,7 +67,7 @@ Sorry for the loooong delay, new job and study, and all that. Report any issues 
                       **[u]To fix this please try the following:[/u]**
 
     1: Please unsub from the mod, go into your steam folder: 
-    Steam &gt; steamapps &gt; workshop &gt; content &gt; 294100
+    Steam  steamapps  workshop  content  294100
     
     2: If there is a folder inside named 756216922, Please delete it
     
@@ -83,14 +83,10 @@ Sorry for the loooong delay, new job and study, and all that. Report any issues 
     *Special thanks to Nasikabatrachus for the original idea
     Developement : 1.0: Nirahiel, 1.0+: l2evy
     Textures : 1.0:mrofa , 1.0+: l2evy
-    *Updated for Rimworld 11b&gt;15c+ and now maintained by : l2evy
+    *Updated for Rimworld 11b15c+ and now maintained by : l2evy
     Russian Language support by Bugo via GitHub*
 
-# https://www.patreon.com/user?u=3208157&amp;ty=h&amp;u=3208157]I play with code for free as one of my many hobbies, but if you wanna buy me a pizza 
-or something, here is my Patreon.
-
-
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -100,6 +96,7 @@ or something, here is my Patreon.
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 

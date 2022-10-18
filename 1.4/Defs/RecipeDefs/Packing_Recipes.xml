@@ -1,0 +1,2081 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- =======Minerals======= -->
+  <RecipeDef Name="makeSteelCrate">
+    <defName>makeSteelCrate</defName>
+    <label>Steel Crate (75)</label>
+    <description>Packs 75 steel pieces into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <SteelCrate>1</SteelCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <!-- <RecipeDef Name="makeSilverCrate">
+      <defName>makeSilverCrate</defName>
+      <label>Silver Crate (500)</label>
+      <description>Packs 500 silver pieces into a crate.</description>
+      <jobString>Packing heat.</jobString>
+      <workAmount>100</workAmount>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <effectWorking>ConstructMetal</effectWorking>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>Silver</li>
+               </thingDefs>
+            </filter>
+            <count>25</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KMSteelPlate</li>
+               </thingDefs>
+            </filter>
+            <count>6</count>
+         </li>
+      </ingredients>
+      <products>
+         <SilverCrate>1</SilverCrate>
+      </products>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KMSteelPlate</li>
+            <li>Silver</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+   </RecipeDef>
+-->
+  <RecipeDef Name="makeGoldCrate">
+    <defName>makeGoldCrate</defName>
+    <label>Gold Crate (500)</label>
+    <description>Packs 500 gold pieces into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>25</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <GoldCrate>1</GoldCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Gold</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeWoodCrate">
+    <defName>makeWoodCrate</defName>
+    <label>Wood log Crate (75)</label>
+    <description>Packs 75 wood logs into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <WoodCrate>1</WoodCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>WoodLog</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makePlasteelCrate">
+    <defName>makePlasteelCrate</defName>
+    <label>Plasteel Crate (75)</label>
+    <description>Packs 75 plasteel pieces into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <PlasteelCrate>1</PlasteelCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Plasteel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeUraniumCrate">
+    <defName>makeUraniumCrate</defName>
+    <label>Uranium Crate (80)</label>
+    <!-- Due the method used to multiply count of some resources had to change uranium count to 80, since the int32 method don't allow formulas -->
+    <description>Packs 80 uranium pieces into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Uranium</li>
+          </thingDefs>
+        </filter>
+        <count>4</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <UraniumCrate>1</UraniumCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Uranium</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <!-- =======Stones======= -->
+  <RecipeDef Name="makeSandstoneCrate">
+    <defName>makeSandstoneCrate</defName>
+    <label>Sandstone Crate (75)</label>
+    <description>Packs 75 sandstone blocks into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BlocksSandstone</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <SandStoneCrate>1</SandStoneCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>BlocksSandstone</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeGraniteCrate">
+    <defName>makeGraniteCrate</defName>
+    <label>Granite Crate (75)</label>
+    <description>Packs 75 granite blocks into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BlocksGranite</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <GraniteCrate>1</GraniteCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>BlocksGranite</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeLimestoneCrate">
+    <defName>makeLimestoneCrate</defName>
+    <label>Limestone Crate (75)</label>
+    <description>Packs 75 limestone blocks into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BlocksLimestone</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <LimestoneCrate>1</LimestoneCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>BlocksLimestone</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeSlateCrate">
+    <defName>makeSlateCrate</defName>
+    <label>Slate Crate (75)</label>
+    <description>Packs 75 slate blocks into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BlocksSlate</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <SlateCrate>1</SlateCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>BlocksSlate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeMarbleCrate">
+    <defName>makeMarbleCrate</defName>
+    <label>Marble Crate (75)</label>
+    <description>Packs 75 marble blocks into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BlocksMarble</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <MarbleCrate>1</MarbleCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>BlocksMarble</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <!-- =======Cloth_Materials======= -->
+  <RecipeDef Name="makeClothCrate">
+    <defName>makeClothCrate</defName>
+    <label>Cloth Crate (75)</label>
+    <description>Packs 75 cloths into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Cloth</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <ClothCrate>1</ClothCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Cloth</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeSynthreadCrate">
+    <defName>makeSynthreadCrate</defName>
+    <label>Synthread Crate (75)</label>
+    <description>Packs 75 synthread into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Synthread</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <SynthreadCrate>1</SynthreadCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Synthread</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeHyperwaveCrate">
+    <defName>makeHyperwaveCrate</defName>
+    <label>Hyperwave Crate (75)</label>
+    <description>Packs 75 hyperwave into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Hyperweave</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <HyperwaveCrate>1</HyperwaveCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Hyperweave</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeDevilstrandCrate">
+    <defName>makeDevilstrandCrate</defName>
+    <label>Devilstrand Crate (75)</label>
+    <description>Packs 75 devilstrand into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>DevilstrandCloth</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <DevilstrandCrate>1</DevilstrandCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>DevilstrandCloth</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <!-- =======Leather/Hide====-->
+  <RecipeDef Name="makeBirdLeatherCrate">
+    <defName>makeBirdLeatherCrate</defName>
+    <label>Bird Leather Crate (75)</label>
+    <description>Packs 75 Bird Leather into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Bird</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <BirdLeatherCrate>1</BirdLeatherCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Leather_Bird</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeCamelLeatherCrate">
+    <defName>makeCamelLeatherCrate</defName>
+    <label>Camel Hide Crate (75)</label>
+    <description>Packs 75 Camel hides into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Camel</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <CamelLeatherCrate>1</CamelLeatherCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Leather_Camel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makePigLeatherCrate">
+    <defName>makePigLeatherCrate</defName>
+    <label>Pig Skin Crate (75)</label>
+    <description>Packs 75 Pig skins into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Pig</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <PigLeatherCrate>1</PigLeatherCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Leather_Pig</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makePlainLeatherCrate">
+    <defName>makePlainLeatherCrate</defName>
+    <label>Plain Leather Crate (75)</label>
+    <description>Packs 75 Plain leather into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Plain</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <PlainLeatherCrate>1</PlainLeatherCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Leather_Plain</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeElephantLeatherCrate">
+    <defName>makeElephantLeatherCrate</defName>
+    <label>Elephant Leather Crate (75)</label>
+    <description>Packs 75 Elephant leather into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Elephant</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <ElephantLeatherCrate>1</ElephantLeatherCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Leather_Elephant</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeHeavyLeatherCrate">
+    <defName>makeHeavyLeatherCrate</defName>
+    <label>Heavy Fur Crate (75)</label>
+    <description>Packs 75 Heavy Fur into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Heavy</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <HeavyLeatherCrate>1</HeavyLeatherCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Leather_Heavy</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeWolfLeatherCrate">
+    <defName>makeWolfLeatherCrate</defName>
+    <label>Timberwolf Skin Crate (75)</label>
+    <description>Packs 75 Wolf skins into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Wolf</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <WolfLeatherCrate>1</WolfLeatherCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Leather_Wolf</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeFoxLeatherCrate">
+    <defName>makeFoxLeatherCrate</defName>
+    <label>Fox fur Crate (75)</label>
+    <description>Packs 75 Fox fur into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Fox</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <FoxLeatherCrate>1</FoxLeatherCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Leather_Fox</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeThrumboLeatherCrate">
+    <defName>makeThrumboLeatherCrate</defName>
+    <label>Thrumbo fur Crate (75)</label>
+    <description>Packs 75 thrumbo fur into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Thrumbo</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <ThrumboLeatherCrate>1</ThrumboLeatherCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Leather_Thrumbo</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeRhinoLeatherCrate">
+    <defName>makeRhinoLeatherCrate</defName>
+    <label>Rhino Leather Crate (75)</label>
+    <description>Packs 75 Rhino leather into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Rhinoceros</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <RhinoLeatherCrate>1</RhinoLeatherCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Leather_Rhinoceros</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeDogLeatherCrate">
+    <defName>makeDogLeatherCrate</defName>
+    <label>Dog Leather Crate (75)</label>
+    <description>Packs 75 Dog leather into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Dog</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <DogLeatherCrate>1</DogLeatherCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Leather_Dog</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeChinchillaLeatherCrate">
+    <defName>makeChinchillaLeatherCrate</defName>
+    <label>Chinchilla Fur Crate (75)</label>
+    <description>Packs 75 Chinchilla fur into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Chinchilla</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <ChinchillaLeatherCrate>1</ChinchillaLeatherCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Leather_Chinchilla</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeLizardLeatherCrate">
+    <defName>makeLizardLeatherCrate</defName>
+    <label>Lizard Leather Crate (75)</label>
+    <description>Packs 75 Lizard leather into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Lizard</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <LizardLeatherCrate>1</LizardLeatherCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Leather_Lizard</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeBluefurLeatherCrate">
+    <defName>makeBluefurLeatherCrate</defName>
+    <label>Blue Fur Crate (75)</label>
+    <description>Packs 75 Blue Fur into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Bluefur</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <BluefurLeatherCrate>1</BluefurLeatherCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Leather_Bluefur</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeLightLeatherCrate">
+    <defName>makeLightLeatherCrate</defName>
+    <label>Light Leather Crate (75)</label>
+    <description>Packs 75 Light leather into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Light</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <LightLeatherCrate>1</LightLeatherCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Leather_Light</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeBearLeatherCrate">
+    <defName>makeBearLeatherCrate</defName>
+    <label>Bear Fur Crate (75)</label>
+    <description>Packs 75 Bear Fur into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Bear</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <BearLeatherCrate>1</BearLeatherCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Leather_Bear</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makePantheraLeatherCrate">
+    <defName>makePantheraLeatherCrate</defName>
+    <label>Panthera Fur Crate (75)</label>
+    <description>Packs 75 Panthera Fur into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Panthera</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <PantheraLeatherCrate>1</PantheraLeatherCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Leather_Panthera</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makePatchLeatherCrate">
+    <defName>makePatchLeatherCrate</defName>
+    <label>Patch Leather Crate (75)</label>
+    <description>Packs 75 Patch Leather into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Patch</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <PatchLeatherCrate>1</PatchLeatherCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Leather_Patch</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <!-- =======Herbi======= -->
+  <RecipeDef Name="makePotatoCrate">
+    <defName>makePotatoCrate</defName>
+    <label>Potato Crate (75)</label>
+    <description>Packs 75 potatoes into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RawPotatoes</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <PotatoCrate>1</PotatoCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>RawPotatoes</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeBerryCrate">
+    <defName>makeBerryCrate</defName>
+    <label>Berry Crate (75)</label>
+    <description>Packs 75 berries into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RawBerries</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <BerryCrate>1</BerryCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>RawBerries</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeAgaveCrate">
+    <defName>makeAgaveCrate</defName>
+    <label>Agave Crate (75)</label>
+    <description>Packs 75 agave fruits into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RawAgave</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <AgaveCrate>1</AgaveCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>RawAgave</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeHopsCrate">
+    <defName>makeHopsCrate</defName>
+    <label>Hops Crate (75)</label>
+    <description>Packs 75 hops into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RawHops</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <HopsCrate>1</HopsCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>RawHops</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeRiceCrate">
+    <defName>makeRiceCrate</defName>
+    <label>Rice Crate (75)</label>
+    <description>Packs 75 rice into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RawRice</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <RiceCrate>1</RiceCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>RawRice</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeCornCrate">
+    <defName>makeCornCrate</defName>
+    <label>Corn Crate (75)</label>
+    <description>Packs 75 corn into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RawCorn</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <CornCrate>1</CornCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>RawCorn</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <!--
+   <RecipeDef Name="makeMeatCanCrate">
+      <defName>makeMeatCanCrate</defName>
+      <label>Meat Can Crate (75)</label>
+      <description>Packs 75 meat cans into a crate.</description>
+      <jobString>Packing cans.</jobString>
+      <workAmount>100</workAmount>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <effectWorking>ConstructMetal</effectWorking>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>MeatCan</li>
+               </thingDefs>
+            </filter>
+            <count>75</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KMSteelPlate</li>
+               </thingDefs>
+            </filter>
+            <count>6</count>
+         </li>
+      </ingredients>
+      <products>
+         <MeatCanCrate>1</MeatCanCrate>
+      </products>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KMSteelPlate</li>
+            <li>MeatCan</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <recipeUsers>
+         <li>FoodPackingBench</li>
+      </recipeUsers>
+   </RecipeDef>
+
+   <RecipeDef Name="makeVeggiesCanCrate">
+      <defName>makeVeggiesCanCrate</defName>
+      <label>Vegetables Can Crate (75)</label>
+      <description>Packs 75 veggies cans into a crate.</description>
+      <jobString>Packing cans.</jobString>
+      <workAmount>100</workAmount>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <effectWorking>ConstructMetal</effectWorking>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>VeggiesCan</li>
+               </thingDefs>
+            </filter>
+            <count>75</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KMSteelPlate</li>
+               </thingDefs>
+            </filter>
+            <count>6</count>
+         </li>
+      </ingredients>
+      <products>
+         <VeggiesCanCrate>1</VeggiesCanCrate>
+      </products>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KMSteelPlate</li>
+            <li>VeggiesCan</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <recipeUsers>
+         <li>FoodPackingBench</li>
+      </recipeUsers>
+   </RecipeDef>
+
+-->
+  <!-- ======Weapons========
+
+   <RecipeDef>
+      <defName>makeMortarshellCrate</defName>
+      <label>Mortar Shell Crate (25)</label>
+      <description>Packs 25 Mortar Shells into a crate.</description>
+      <jobString>Packing heat.</jobString>
+      <workAmount>100</workAmount>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <effectWorking>ConstructMetal</effectWorking>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>MortarShells</li>
+               </thingDefs>
+            </filter>
+            <count>25</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KMSteelPlate</li>
+               </thingDefs>
+            </filter>
+            <count>6</count>
+         </li>
+      </ingredients>
+      <products>
+         <MortarshellCrate>1</MortarshellCrate>
+      </products>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KMSteelPlate</li>
+            <li>MortarShells</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+   </RecipeDef>   
+-->
+  <!-- =======_Drugs_======= -->
+  <RecipeDef Name="makeSmokeleafJointCrate">
+    <defName>makeSmokeleafJointCrate</defName>
+    <label>Smokeleaf Joint Crate (75)</label>
+    <description>Packs 75 Smokeleaf Joints into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SmokeleafJoint</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <SmokeleafJointCrate>1</SmokeleafJointCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>SmokeleafJoint</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeYayoCrate">
+    <defName>makeYayoCrate</defName>
+    <label>Yayo Crate (75)</label>
+    <description>Packs 75 Yayo into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Yayo</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <YayoCrate>1</YayoCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Yayo</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeGoJuiceCrate">
+    <defName>makeGoJuiceCrate</defName>
+    <label>Go-Juice Crate (75)</label>
+    <description>Packs 75 Go-Juice into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GoJuice</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <GoJuiceCrate>1</GoJuiceCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>GoJuice</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeLuciferiumCrate">
+    <defName>makeLuciferiumCrate</defName>
+    <label>Luciferium Crate (75)</label>
+    <description>Packs 75 veggies cans into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Luciferium</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <LuciferiumCrate>1</LuciferiumCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Luciferium</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makePenoxycylineCrate">
+    <defName>makePenoxycylineCrate</defName>
+    <label>Penoxycyline Crate (75)</label>
+    <description>Packs 75 Penoxycyline into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Penoxycyline</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <PenoxycylineCrate>1</PenoxycylineCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Penoxycyline</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeFlakeCrate">
+    <defName>makeFlakeCrate</defName>
+    <label>Flake Crate (75)</label>
+    <description>Packs 75 Flake into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Flake</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <FlakeCrate>1</FlakeCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Flake</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeWakeUpCrate">
+    <defName>makeWakeUpCrate</defName>
+    <label>Wake-Up Crate (75)</label>
+    <description>Packs 75 Wake-Up into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>WakeUp</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <WakeUpCrate>1</WakeUpCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>WakeUp</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <!-- =======Drug Material Packing====== -->
+  <RecipeDef Name="makePsychoidLeavesCrate">
+    <defName>makePsychoidLeavesCrate</defName>
+    <label>Psychoid Leaves Crate (75)</label>
+    <description>Packs 75 Psychoid Leaves into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>PsychoidLeaves</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <MeatCrate>1</MeatCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>PsychoidLeaves</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeSmokeleafLeavesCrate">
+    <defName>makeSmokeleafLeavesCrate</defName>
+    <label>Smokeleaf Leaves Crate (75)</label>
+    <description>Packs 75 Smokeleaf Leaves into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SmokeleafLeaves</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <MeatCrate>1</MeatCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>SmokeleafLeaves</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <!-- =======Food_Meat======= -->
+  <RecipeDef Name="makeMeatCrate">
+    <defName>makeMeatCrate</defName>
+    <label>Processed Meat Crate (75)</label>
+    <description>Packs 75 processed meat into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SCMeat</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <MeatCrate>1</MeatCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>SCMeat</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeChemfuelCrate">
+    <defName>makeChemfuelCrate</defName>
+    <label>Chemfuel Barrel (75)</label>
+    <description>Packs 75 Chemfuel into a barrel.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Chemfuel</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <ChemfuelCrate>1</ChemfuelCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Chemfuel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+</Defs>
