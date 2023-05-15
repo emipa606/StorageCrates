@@ -1,5 +1,12 @@
 # Changelog for StorageCrates
 
+1.4.2 - Fixed missing human leather crate
+Unpacking crates now cosumes the steel plates, this makes it possible to use the Do until-setting
+Lowered the cost of steel plates because of this change
+Fixed the cost of the Uranium crate
+Thanks Scrounger for the detailed report!
+
+
 1.4.1 - Mod updated for 1.4 and passed autotests
 
 

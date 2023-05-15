@@ -210,7 +210,7 @@
             <li>Uranium</li>
           </thingDefs>
         </filter>
-        <count>4</count>
+        <count>80</count>
       </li>
       <li>
         <filter>
@@ -1284,6 +1284,45 @@
       <thingDefs>
         <li>KMSteelPlate</li>
         <li>Leather_Patch</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>PackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef Name="makeHumanLeatherCrate">
+    <defName>makeHumanLeatherCrate</defName>
+    <label>Human Leather Crate (75)</label>
+    <description>Packs 75 Human Leather into a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Leather_Human</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>KMSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+    </ingredients>
+    <products>
+      <HumanLeatherCrate>1</HumanLeatherCrate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>KMSteelPlate</li>
+        <li>Leather_Human</li>
       </thingDefs>
     </fixedIngredientFilter>
     <recipeUsers>

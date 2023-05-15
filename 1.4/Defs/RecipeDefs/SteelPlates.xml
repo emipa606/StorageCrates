@@ -16,11 +16,11 @@
             <li>Steel</li>
           </thingDefs>
         </filter>
-        <count>4</count>
+        <count>1</count>
       </li>
     </ingredients>
     <products>
-      <KMSteelPlate>5</KMSteelPlate>
+      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -51,7 +51,7 @@
       </li>
     </ingredients>
     <products>
-      <Steel>3</Steel>
+      <Steel>1</Steel>
     </products>
     <fixedIngredientFilter>
       <thingDefs>

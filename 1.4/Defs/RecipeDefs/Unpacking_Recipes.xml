@@ -21,7 +21,6 @@
     </ingredients>
     <products>
       <Steel>75</Steel>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -52,7 +51,6 @@
     </ingredients>
     <products>
       <Silver>500</Silver>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -83,7 +81,6 @@
     </ingredients>
     <products>
       <Gold>500</Gold>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -114,7 +111,6 @@
     </ingredients>
     <products>
       <WoodLog>75</WoodLog>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -145,7 +141,6 @@
     </ingredients>
     <products>
       <Plasteel>75</Plasteel>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -176,7 +171,6 @@
     </ingredients>
     <products>
       <Uranium>80</Uranium>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -208,7 +202,6 @@
     </ingredients>
     <products>
       <BlocksSandstone>75</BlocksSandstone>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -239,7 +232,6 @@
     </ingredients>
     <products>
       <BlocksGranite>75</BlocksGranite>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -270,7 +262,6 @@
     </ingredients>
     <products>
       <BlocksLimestone>75</BlocksLimestone>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -301,7 +292,6 @@
     </ingredients>
     <products>
       <BlocksSlate>75</BlocksSlate>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -332,7 +322,6 @@
     </ingredients>
     <products>
       <BlocksMarble>75</BlocksMarble>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -364,7 +353,6 @@
     </ingredients>
     <products>
       <Cloth>75</Cloth>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -395,7 +383,6 @@
     </ingredients>
     <products>
       <Synthread>75</Synthread>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -426,7 +413,6 @@
     </ingredients>
     <products>
       <Hyperweave>75</Hyperweave>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -457,7 +443,6 @@
     </ingredients>
     <products>
       <DevilstrandCloth>75</DevilstrandCloth>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -489,7 +474,6 @@
     </ingredients>
     <products>
       <Leather_Bird>75</Leather_Bird>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -520,7 +504,6 @@
     </ingredients>
     <products>
       <Leather_Camel>75</Leather_Camel>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -551,7 +534,6 @@
     </ingredients>
     <products>
       <Leather_Pig>75</Leather_Pig>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -582,7 +564,6 @@
     </ingredients>
     <products>
       <Leather_Plain>75</Leather_Plain>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -613,7 +594,6 @@
     </ingredients>
     <products>
       <Leather_Elephant>75</Leather_Elephant>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -644,7 +624,6 @@
     </ingredients>
     <products>
       <Leather_Heavy>75</Leather_Heavy>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -675,7 +654,6 @@
     </ingredients>
     <products>
       <Leather_Wolf>75</Leather_Wolf>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -706,7 +684,6 @@
     </ingredients>
     <products>
       <Leather_Fox>75</Leather_Fox>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -737,7 +714,6 @@
     </ingredients>
     <products>
       <Leather_Fox>75</Leather_Fox>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -768,7 +744,6 @@
     </ingredients>
     <products>
       <Leather_Rhinoceros>75</Leather_Rhinoceros>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -799,7 +774,6 @@
     </ingredients>
     <products>
       <Leather_Light>75</Leather_Light>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -830,7 +804,6 @@
     </ingredients>
     <products>
       <Leather_Dog>75</Leather_Dog>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -861,7 +834,6 @@
     </ingredients>
     <products>
       <Leather_Chinchilla>75</Leather_Chinchilla>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -892,7 +864,6 @@
     </ingredients>
     <products>
       <Leather_Lizard>75</Leather_Lizard>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -923,7 +894,6 @@
     </ingredients>
     <products>
       <Leather_Bluefur>75</Leather_Bluefur>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -954,42 +924,10 @@
     </ingredients>
     <products>
       <Leather_Bear>75</Leather_Bear>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
         <li>BearLeatherCrate</li>
-      </thingDefs>
-    </fixedIngredientFilter>
-    <recipeUsers>
-      <li>UnpackingBenchTierOne</li>
-    </recipeUsers>
-  </RecipeDef>
-  <RecipeDef>
-    <defName>unpackHumanLeatherCrate</defName>
-    <label>Un-pack Human Leather Crate (75)</label>
-    <description>Un-pack 75 Human Leather from a crate.</description>
-    <jobString>Packing heat.</jobString>
-    <workAmount>100</workAmount>
-    <workSpeedStat>PackingTime</workSpeedStat>
-    <effectWorking>ConstructMetal</effectWorking>
-    <ingredients>
-      <li>
-        <filter>
-          <thingDefs>
-            <li>HumanLeatherCrate</li>
-          </thingDefs>
-        </filter>
-        <count>1</count>
-      </li>
-    </ingredients>
-    <products>
-      <Leather_Human>75</Leather_Human>
-      <KMSteelPlate>6</KMSteelPlate>
-    </products>
-    <fixedIngredientFilter>
-      <thingDefs>
-        <li>HumanLeatherCrate</li>
       </thingDefs>
     </fixedIngredientFilter>
     <recipeUsers>
@@ -1016,7 +954,6 @@
     </ingredients>
     <products>
       <Leather_Panthera>75</Leather_Panthera>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -1047,11 +984,40 @@
     </ingredients>
     <products>
       <Leather_Patch>75</Leather_Patch>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
         <li>PatchLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackHumanLeatherCrate</defName>
+    <label>Un-pack Human Leather Crate (75)</label>
+    <description>Un-pack 75 Human Leather from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>HumanLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Human>75</Leather_Human>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>HumanLeatherCrate</li>
       </thingDefs>
     </fixedIngredientFilter>
     <recipeUsers>
@@ -1079,7 +1045,6 @@
     </ingredients>
     <products>
       <RawPotatoes>75</RawPotatoes>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -1110,7 +1075,6 @@
     </ingredients>
     <products>
       <RawBerries>75</RawBerries>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -1141,7 +1105,6 @@
     </ingredients>
     <products>
       <RawAgave>75</RawAgave>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -1172,7 +1135,6 @@
     </ingredients>
     <products>
       <RawHops>75</RawHops>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -1203,7 +1165,6 @@
     </ingredients>
     <products>
       <RawRice>75</RawRice>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -1234,7 +1195,6 @@
     </ingredients>
     <products>
       <RawCorn>75</RawCorn>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -1266,7 +1226,7 @@
       </ingredients>
       <products>
          <MeatCan>75</MeatCan>
-         <KMSteelPlate>6</KMSteelPlate>
+   
       </products>
       <fixedIngredientFilter>
          <thingDefs>
@@ -1298,7 +1258,7 @@
       </ingredients>
       <products>
          <VeggiesCan>75</VeggiesCan>
-         <KMSteelPlate>6</KMSteelPlate>
+   
       </products>
       <fixedIngredientFilter>
          <thingDefs>
@@ -1333,7 +1293,7 @@
       </ingredients>
       <products>
          <MortarShells>25</MortarShells>
-         <KMSteelPlate>6</KMSteelPlate>
+   
       </products>
       <fixedIngredientFilter>
          <thingDefs>
@@ -1363,7 +1323,6 @@
     </ingredients>
     <products>
       <SmokeleafJoint>75</SmokeleafJoint>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -1394,7 +1353,6 @@
     </ingredients>
     <products>
       <Yayo>75</Yayo>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -1425,7 +1383,6 @@
     </ingredients>
     <products>
       <GoJuice>75</GoJuice>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -1456,7 +1413,6 @@
     </ingredients>
     <products>
       <Luciferium>75</Luciferium>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -1487,7 +1443,6 @@
     </ingredients>
     <products>
       <Penoxycyline>75</Penoxycyline>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -1518,7 +1473,6 @@
     </ingredients>
     <products>
       <Flake>75</Flake>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -1549,7 +1503,6 @@
     </ingredients>
     <products>
       <WakeUp>75</WakeUp>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -1583,7 +1536,7 @@
       </ingredients>
       <products>
          <PsychoidLeaves>75</PsychoidLeaves>
-         <KMSteelPlate>6</KMSteelPlate>
+   
       </products>
       <fixedIngredientFilter>
          <thingDefs>
@@ -1613,7 +1566,7 @@
       </ingredients>
       <products>
          <SmokeleafLeaves>75</Smokeleafleaves>
-         <KMSteelPlate>6</KMSteelPlate>
+   
       </products>
       <fixedIngredientFilter>
          <thingDefs>
@@ -1643,7 +1596,6 @@
     </ingredients>
     <products>
       <SCMeat>75</SCMeat>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
@@ -1674,7 +1626,6 @@
     </ingredients>
     <products>
       <Chemfuel>75</Chemfuel>
-      <KMSteelPlate>6</KMSteelPlate>
     </products>
     <fixedIngredientFilter>
       <thingDefs>
