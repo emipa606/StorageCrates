@@ -1,5 +1,8 @@
 # Changelog for StorageCrates
 
+1.5.0 - Steam never actually published the 1.5 update, republishing
+
+
 1.4.2 - Fixed missing human leather crate
 Unpacking crates now cosumes the steel plates, this makes it possible to use the Do until-setting
 Lowered the cost of steel plates because of this change

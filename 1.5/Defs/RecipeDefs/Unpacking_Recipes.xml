@@ -1,0 +1,1639 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- =======Minerals======= -->
+  <RecipeDef>
+    <defName>unpackSteelCrate</defName>
+    <label>Un-pack Steel Crate (75)</label>
+    <description>Un-Pack 75 steel pieces from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SteelCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Steel>75</Steel>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>SteelCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackSilverCrate</defName>
+    <label>Un-packSilver Crate (500)</label>
+    <description>Un-pack 500 silver pieces from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SilverCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Silver>500</Silver>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>SilverCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackGoldCrate</defName>
+    <label>Un-pack Gold Crate (500)</label>
+    <description>Un-packs 500 gold pieces from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GoldCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Gold>500</Gold>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>GoldCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackWoodCrate</defName>
+    <label>Un-pack Wood log Crate (75)</label>
+    <description>Un-packs 75 wood logs from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>WoodCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <WoodLog>75</WoodLog>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>WoodCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackPlasteelCrate</defName>
+    <label>Un-pack Plasteel Crate (75)</label>
+    <description>Un-pack 75 plasteel pieces from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>PlasteelCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Plasteel>75</Plasteel>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>PlasteelCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackUraniumCrate</defName>
+    <label>Un-pack Uranium Crate (80)</label>
+    <description>Un-pack 80 uranium pieces from crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>UraniumCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Uranium>80</Uranium>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>UraniumCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <!-- =======Stones======= -->
+  <RecipeDef>
+    <defName>unpackSandstoneCrate</defName>
+    <label>Un-pack Sandstone Crate (75)</label>
+    <description>Un-pack 75 sandstone blocks from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SandStoneCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <BlocksSandstone>75</BlocksSandstone>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>SandStoneCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackGraniteCrate</defName>
+    <label>Un-pack Granit Crate (75)</label>
+    <description>Un-pack 75 granite blocks from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GraniteCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <BlocksGranite>75</BlocksGranite>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>GraniteCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackLimestoneCrate</defName>
+    <label>Un-pack Limestone Crate (75)</label>
+    <description>Un-pack 75 limestone blocks from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>LimestoneCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <BlocksLimestone>75</BlocksLimestone>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>LimestoneCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackSlateCrate</defName>
+    <label>Un-pack Slate Crate (75)</label>
+    <description>Un-pack 75 slate blocks from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SlateCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <BlocksSlate>75</BlocksSlate>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>SlateCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackMarbleCrate</defName>
+    <label>Un-pack Marble Crate (75)</label>
+    <description>Un-pack 75 marble blocks from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>MarbleCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <BlocksMarble>75</BlocksMarble>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>MarbleCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <!-- =======Cloth_Materials======= -->
+  <RecipeDef>
+    <defName>unpackClothCrate</defName>
+    <label>Un-pack Cloth Crate (75)</label>
+    <description>Un-pack 75 cloth from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ClothCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Cloth>75</Cloth>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>ClothCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackSynthreadCrate</defName>
+    <label>Un-pack Synthread Crate (75)</label>
+    <description>Un-pack 75 synthread from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SynthreadCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Synthread>75</Synthread>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>SynthreadCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackHyperwaveCrate</defName>
+    <label>Un-pack Hyperwave Crate (75)</label>
+    <description>Un-pack 75 hyperwave from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>HyperwaveCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Hyperweave>75</Hyperweave>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>HyperwaveCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackDevilstrandCrate</defName>
+    <label>Un-pack Devilstrand Crate (75)</label>
+    <description>Un-pack 75 devilstrand from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>DevilstrandCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <DevilstrandCloth>75</DevilstrandCloth>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>DevilstrandCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <!-- =======Leather/Hide====-->
+  <RecipeDef>
+    <defName>unpackBirdLeatherCrate</defName>
+    <label>Un-pack Bird Leather Crate (75)</label>
+    <description>Un-pack 75 Bird Leather from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BirdLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Bird>75</Leather_Bird>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>BirdLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackCamelLeatherCrate</defName>
+    <label>Un-pack Camel Hide Crate (75)</label>
+    <description>Un-pack 75 Camel hide from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>CamelLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Camel>75</Leather_Camel>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>CamelLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackPigLeatherCrate</defName>
+    <label>Un-pack Pig Skin Crate (75)</label>
+    <description>Un-pack 75 Pig skin from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>PigLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Pig>75</Leather_Pig>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>PigLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackPlainLeatherCrate</defName>
+    <label>Un-pack Plain Leather Crate (75)</label>
+    <description>Un-pack 75 Plain Leather from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>PlainLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Plain>75</Leather_Plain>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>PlainLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackElephantLeatherCrate</defName>
+    <label>Un-pack Elephant Leather Crate (75)</label>
+    <description>Un-pack 75 Elephant skin from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ElephantLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Elephant>75</Leather_Elephant>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>ElephantLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackHeavyLeatherCrate</defName>
+    <label>Un-pack Heavy Fur Crate (75)</label>
+    <description>Un-pack 75 Heavy Fur from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>HeavyLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Heavy>75</Leather_Heavy>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>HeavyLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackWolfLeatherCrate</defName>
+    <label>Un-pack Wolf Skin Crate (75)</label>
+    <description>Un-pack 75 Wolf skin from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>WolfLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Wolf>75</Leather_Wolf>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>WolfLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackFoxLeatherCrate</defName>
+    <label>Un-pack Fox Skin Crate (75)</label>
+    <description>Un-pack 75 Fox skins from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>FoxLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Fox>75</Leather_Fox>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>FoxLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackThrumboLeatherCrate</defName>
+    <label>Un-pack Thrumbo Fur Crate (75)</label>
+    <description>Un-pack 75 Thrumbo Fur from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ThrumboLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Fox>75</Leather_Fox>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>ThrumboLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackRhinoLeatherCrate</defName>
+    <label>Un-pack Rhinoceros Skin Crate (75)</label>
+    <description>Un-pack 75 Rhinoceros skins from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RhinoLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Rhinoceros>75</Leather_Rhinoceros>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>RhinoLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackLightLeatherCrate</defName>
+    <label>Un-pack Light Leather Crate (75)</label>
+    <description>Un-pack 75 Light Leather from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>LightLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Light>75</Leather_Light>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>LightLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackDogLeatherCrate</defName>
+    <label>Un-pack Dog Leather Crate (75)</label>
+    <description>Un-pack 75 Dog Leather from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>DogLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Dog>75</Leather_Dog>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>DogLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackChinchillaLeatherCrate</defName>
+    <label>Un-pack Chinchilla Fur Crate (75)</label>
+    <description>Un-pack 75 Chinchilla Fur from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ChinchillaLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Chinchilla>75</Leather_Chinchilla>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>ChinchillaLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackLizardLeatherCrate</defName>
+    <label>Un-pack Lizard Leather Crate (75)</label>
+    <description>Un-pack 75 Lizard Leather from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>LizardLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Lizard>75</Leather_Lizard>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>LizardLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackBluefurLeatherCrate</defName>
+    <label>Un-pack Blue Fur Crate (75)</label>
+    <description>Un-pack 75 Blue Fur from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BluefurLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Bluefur>75</Leather_Bluefur>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>BluefurLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackBearLeatherCrate</defName>
+    <label>Un-pack Bear Leather Crate (75)</label>
+    <description>Un-pack 75 Bear Leather from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BearLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Bear>75</Leather_Bear>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>BearLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackPantheraLeatherCrate</defName>
+    <label>Un-pack Panthera Fur Crate (75)</label>
+    <description>Un-pack 75 Panthera Fur from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>PantheraLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Panthera>75</Leather_Panthera>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>PantheraLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackPatchLeatherCrate</defName>
+    <label>Un-pack Patch Leather Crate (75)</label>
+    <description>Un-pack 75 Patch Leather from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>PatchLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Patch>75</Leather_Patch>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>PatchLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackHumanLeatherCrate</defName>
+    <label>Un-pack Human Leather Crate (75)</label>
+    <description>Un-pack 75 Human Leather from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>HumanLeatherCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Leather_Human>75</Leather_Human>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>HumanLeatherCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+  <!-- =======Herbi======= -->
+  <RecipeDef>
+    <defName>unpackPotatoCrate</defName>
+    <label>Un-pack Potato Crate (75)</label>
+    <description>Un-pack 75 potatoes from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>PotatoCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <RawPotatoes>75</RawPotatoes>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>PotatoCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodUnPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackBerryCrate</defName>
+    <label>Un-pack Berry Crate (75)</label>
+    <description>Un-pack 75 berries from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BerryCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <RawBerries>75</RawBerries>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>BerryCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodUnPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackAgaveCrate</defName>
+    <label>Un-pack Agave Crate (75)</label>
+    <description>Un-pack 75 agave fruits from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>AgaveCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <RawAgave>75</RawAgave>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>AgaveCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodUnPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackHopsCrate</defName>
+    <label>Un-pack Hops Crate (75)</label>
+    <description>Un-pack 75 hops fruits from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>HopsCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <RawHops>75</RawHops>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>HopsCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodUnPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackRiceCrate</defName>
+    <label>Un-pack Rice Crate (75)</label>
+    <description>Un-pack 75 rice fruits from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RiceCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <RawRice>75</RawRice>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>RiceCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodUnPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackCornCrate</defName>
+    <label>Un-pack Corn Crate (75)</label>
+    <description>Un-pack 75 corn fruits from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>CornCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <RawCorn>75</RawCorn>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>CornCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodUnPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <!--
+   <RecipeDef>
+      <defName>unpackMeatCanCrate</defName>
+      <label>Un-pack Meat Can Crate (75)</label>
+      <description>Un-Packs 75 meat cans from a crate.</description>
+      <jobString>unpacking cans.</jobString>
+      <workAmount>100</workAmount>
+      <workSpeedStat>PackingTime</workSpeedStat>
+      <effectWorking>ConstructMetal</effectWorking>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>MeatCanCrate</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <products>
+         <MeatCan>75</MeatCan>
+   
+      </products>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>MeatCanCrate</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <recipeUsers>
+         <li>FoodUnPackingBench</li>
+      </recipeUsers>
+   </RecipeDef>
+
+   <RecipeDef>
+      <defName>unpackVeggiesCanCrate</defName>
+      <label>Un-pack Vegetables Can Crate (75)</label>
+      <description>Un-Packs 75 vegetables cans from a crate.</description>
+      <jobString>Packing heat.</jobString>
+      <workAmount>100</workAmount>
+      <workSpeedStat>PackingTime</workSpeedStat>
+      <effectWorking>ConstructMetal</effectWorking>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>VeggiesCanCrate</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <products>
+         <VeggiesCan>75</VeggiesCan>
+   
+      </products>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>VeggiesCanCrate</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <recipeUsers>
+         <li>FoodUnPackingBench</li>
+      </recipeUsers>
+   </RecipeDef>
+
+-->
+  <!-- ====== Weapons ===========
+
+   <RecipeDef>
+      <defName>unpackMortarshellCrate</defName>
+      <label>Un-pack Mortar Shell Crate (25)</label>
+      <description>Un-Packs 25 Mortar Shells from a crate.</description>
+      <jobString>Packing heat.</jobString>
+      <workAmount>100</workAmount>
+      <workSpeedStat>PackingTime</workSpeedStat>
+      <effectWorking>ConstructMetal</effectWorking>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>MortarshellCrate</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <products>
+         <MortarShells>25</MortarShells>
+   
+      </products>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>MortarshellCrate</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+   </RecipeDef>
+-->
+  <!-- =======Drugs=========== -->
+  <RecipeDef>
+    <defName>unpackSmokeleafJointCrate</defName>
+    <label>Un-pack Smokeleaf Joint Crate (75)</label>
+    <description>Un-Packs 75 Smokeleaf Joints from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SmokeleafJointCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <SmokeleafJoint>75</SmokeleafJoint>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>SmokeleafJointCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodUnPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackYayoCrate</defName>
+    <label>Un-pack Yayo Crate (75)</label>
+    <description>Un-Packs 75 Yayo from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>YayoCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Yayo>75</Yayo>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>YayoCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodUnPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackGoJuiceCrate</defName>
+    <label>Un-pack Go-Juice Crate (75)</label>
+    <description>Un-Packs 75 Go-Juice from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GoJuiceCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <GoJuice>75</GoJuice>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>GoJuiceCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodUnPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackLuciferiumCrate</defName>
+    <label>Un-pack Luciferium Crate (75)</label>
+    <description>Un-Packs 75 Luciferium pills from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>LuciferiumCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Luciferium>75</Luciferium>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>LuciferiumCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodUnPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackPenoxycylineCrate</defName>
+    <label>Un-pack Penoxycyline Crate (75)</label>
+    <description>Un-Packs 75 Penoxycyline pills from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>PenoxycylineCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Penoxycyline>75</Penoxycyline>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>PenoxycylineCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodUnPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackFlakeCrate</defName>
+    <label>Un-pack Flake Crate (75)</label>
+    <description>Un-Packs 75 Flake from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>FlakeCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Flake>75</Flake>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>FlakeCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodUnPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackWakeUpCrate</defName>
+    <label>Un-pack Wake-Up Crate (75)</label>
+    <description>Un-Packs 75 Wake-Up from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>WakeUpCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <WakeUp>75</WakeUp>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>WakeUpCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodUnPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <!-- =======Drug Materials== -->
+  <!--
+   <RecipeDef>
+      <defName>unpackPsychoidLeavesCrate</defName>
+      <label>Un-pack Psychoid Leaves Crate (75)</label>
+      <description>Un-pack 75 Psychoid Leaves from a crate.</description>
+      <jobString>Packing heat.</jobString>
+      <workAmount>100</workAmount>
+      <workSpeedStat>PackingTime</workSpeedStat>
+
+      <effectWorking>ConstructMetal</effectWorking>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>PsychoidLeavesCrate</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <products>
+         <PsychoidLeaves>75</PsychoidLeaves>
+   
+      </products>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>PsychoidLeavesCrate</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+   </RecipeDef> 
+
+   <RecipeDef>
+      <defName>unpackSmokeleafLeavesCrate</defName>
+      <label>Un-pack Smokeleaf Leaves Crate (75)</label>
+      <description>Un-pack 75 Smokeleaf Leaves from a crate.</description>
+      <jobString>Packing heat.</jobString>
+      <workAmount>100</workAmount>
+      <workSpeedStat>PackingTime</workSpeedStat>
+
+      <effectWorking>ConstructMetal</effectWorking>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>SmokeleafLeavesCrate</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <products>
+         <SmokeleafLeaves>75</Smokeleafleaves>
+   
+      </products>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>SmokeleafLeavesCrate</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+   </RecipeDef>   
+-->
+  <!-- =======Food_Meat======= -->
+  <RecipeDef>
+    <defName>unpackMeatCrate</defName>
+    <label>Un-pack Processed Meat Crate (75)</label>
+    <description>Un-pack 75 Processed Meat from a crate.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>MeatCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <SCMeat>75</SCMeat>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>MeatCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>FoodUnPackingBench</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>unpackChemfuelCrate</defName>
+    <label>Un-pack Chemfuel Barrel (75)</label>
+    <description>Un-pack 75 Chemfuel from a barrel.</description>
+    <jobString>Packing heat.</jobString>
+    <workAmount>100</workAmount>
+    <workSpeedStat>PackingTime</workSpeedStat>
+    <effectWorking>ConstructMetal</effectWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ChemfuelCrate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <Chemfuel>75</Chemfuel>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>ChemfuelCrate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>UnpackingBenchTierOne</li>
+    </recipeUsers>
+  </RecipeDef>
+</Defs>

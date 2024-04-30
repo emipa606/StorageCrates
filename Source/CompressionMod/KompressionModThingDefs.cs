@@ -4,7 +4,7 @@ namespace KompressionMod;
 
 public class KompressionModThingDefs : ThingDef
 {
-    public string StoredStuff = "";
+    public readonly string StoredStuff = "";
 
-    public int StoredStuffAmmount = 0;
+    public readonly int StoredStuffAmmount = 0;
 }

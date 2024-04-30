@@ -114,7 +114,7 @@ internal class FoodBench : Building_WorkTable
         HandleAnimation(!stateOpen);
 
         timer++;
-        Map.mapDrawer.MapMeshDirty(Position, MapMeshFlag.Things, false, false);
+        Map.mapDrawer.MapMeshDirty(Position, MapMeshFlagDefOf.Things, false, false);
         if (timer < 60)
         {
             return;
