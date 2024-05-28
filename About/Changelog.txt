@@ -1,5 +1,8 @@
 # Changelog for StorageCrates
 
+1.5.1 - Fixed the steel-plates
+
+
 1.5.0 - Steam never actually published the 1.5 update, republishing
 
 

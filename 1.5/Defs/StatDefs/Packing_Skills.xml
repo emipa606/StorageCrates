@@ -78,6 +78,7 @@
     <description>Hitting harder, smashing better, crafting faster, plating stronger.</description>
     <category>PawnWork</category>
     <defaultBaseValue>1</defaultBaseValue>
+    <minValue>0.1</minValue>
     <toStringStyle>PercentZero</toStringStyle>
     <statFactors>
       <li>WorkSpeedGlobal</li>

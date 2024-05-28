@@ -28,9 +28,7 @@
     </thingCategories>
     <altitudeLayer>Item</altitudeLayer>
     <comps>
-      <li>
-        <compClass>CompForbiddable</compClass>
-      </li>
+      <li Class="CompProperties_Forbiddable" />
     </comps>
     <alwaysHaulable>true</alwaysHaulable>
     <drawGUIOverlay>true</drawGUIOverlay>
