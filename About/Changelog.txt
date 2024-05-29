@@ -1,5 +1,8 @@
 # Changelog for StorageCrates
 
+1.5.2 - Fixed the crates as well, same issue
+
+
 1.5.1 - Fixed the steel-plates
 
 

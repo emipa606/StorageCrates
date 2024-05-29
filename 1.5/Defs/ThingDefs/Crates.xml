@@ -10,9 +10,7 @@
     <altitudeLayer>Item</altitudeLayer>
     <stackLimit>75</stackLimit>
     <comps>
-      <li>
-        <compClass>CompForbiddable</compClass>
-      </li>
+      <li Class="CompProperties_Forbiddable" />
     </comps>
     <alwaysHaulable>true</alwaysHaulable>
     <drawGUIOverlay>true</drawGUIOverlay>
