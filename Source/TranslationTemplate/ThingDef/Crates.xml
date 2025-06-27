@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Agave Crate (75) -->
+  <AgaveCrate.label>Agave Crate (75)</AgaveCrate.label>
+  <!-- EN: Bear Skin Crate (75) -->
+  <BearLeatherCrate.label>Bear Skin Crate (75)</BearLeatherCrate.label>
+  <!-- EN: Berry Crate (75) -->
+  <BerryCrate.label>Berry Crate (75)</BerryCrate.label>
+  <!-- EN: Bird Skin Crate (75) -->
+  <BirdLeatherCrate.label>Bird Skin Crate (75)</BirdLeatherCrate.label>
+  <!-- EN: Bluefur Crate (75) -->
+  <BluefurLeatherCrate.label>Bluefur Crate (75)</BluefurLeatherCrate.label>
+  <!-- EN: Camel Hide Crate (75) -->
+  <CamelLeatherCrate.label>Camel Hide Crate (75)</CamelLeatherCrate.label>
+  <!-- EN: Chemfuel Barrel (75) -->
+  <ChemfuelCrate.label>Chemfuel Barrel (75)</ChemfuelCrate.label>
+  <!-- EN: Chinchilla Fur Crate (75) -->
+  <ChinchillaLeatherCrate.label>Chinchilla Fur Crate (75)</ChinchillaLeatherCrate.label>
+  <!-- EN: Cloth Crate (75) -->
+  <ClothCrate.label>Cloth Crate (75)</ClothCrate.label>
+  <!-- EN: Corn Crate (75) -->
+  <CornCrate.label>Corn Crate (75)</CornCrate.label>
+  <!-- EN: Devilstrand Crate (75) -->
+  <DevilstrandCrate.label>Devilstrand Crate (75)</DevilstrandCrate.label>
+  <!-- EN: Dog Leather Crate (75) -->
+  <DogLeatherCrate.label>Dog Leather Crate (75)</DogLeatherCrate.label>
+  <!-- EN: Elephant Leather Crate (75) -->
+  <ElephantLeatherCrate.label>Elephant Leather Crate (75)</ElephantLeatherCrate.label>
+  <!-- EN: Flake Crate (75) -->
+  <FlakeCrate.label>Flake Crate (75)</FlakeCrate.label>
+  <!-- EN: Fox Fur Crate (75) -->
+  <FoxLeatherCrate.label>Fox Fur Crate (75)</FoxLeatherCrate.label>
+  <!-- EN: Go-Juice Crate (75) -->
+  <GoJuiceCrate.label>Go-Juice Crate (75)</GoJuiceCrate.label>
+  <!-- EN: Gold Crate(250) -->
+  <GoldCrate.label>Gold Crate(250)</GoldCrate.label>
+  <!-- EN: Crate containing 250 gold units -->
+  <GoldCrate.description>Crate containing 250 gold units</GoldCrate.description>
+  <!-- EN: Granite Crate(75) -->
+  <GraniteCrate.label>Granite Crate(75)</GraniteCrate.label>
+  <!-- EN: Crate containing 75 granite units -->
+  <GraniteCrate.description>Crate containing 75 granite units</GraniteCrate.description>
+  <!-- EN: Heavy Fur Crate (75) -->
+  <HeavyLeatherCrate.label>Heavy Fur Crate (75)</HeavyLeatherCrate.label>
+  <!-- EN: Hops Crate (75) -->
+  <HopsCrate.label>Hops Crate (75)</HopsCrate.label>
+  <!-- EN: Human Leather Crate (75) -->
+  <HumanLeatherCrate.label>Human Leather Crate (75)</HumanLeatherCrate.label>
+  <!-- EN: Hyperwave Crate (75) -->
+  <HyperwaveCrate.label>Hyperwave Crate (75)</HyperwaveCrate.label>
+  <!-- EN: Light Leather Crate (75) -->
+  <LightLeatherCrate.label>Light Leather Crate (75)</LightLeatherCrate.label>
+  <!-- EN: Limestone Crate(75) -->
+  <LimestoneCrate.label>Limestone Crate(75)</LimestoneCrate.label>
+  <!-- EN: Crate containing 75 limestone units -->
+  <LimestoneCrate.description>Crate containing 75 limestone units</LimestoneCrate.description>
+  <!-- EN: Lizard Skin Crate (75) -->
+  <LizardLeatherCrate.label>Lizard Skin Crate (75)</LizardLeatherCrate.label>
+  <!-- EN: Luciferium Crate (75) -->
+  <LuciferiumCrate.label>Luciferium Crate (75)</LuciferiumCrate.label>
+  <!-- EN: Marble Crate(75) -->
+  <MarbleCrate.label>Marble Crate(75)</MarbleCrate.label>
+  <!-- EN: Crate containing 75 Marble units -->
+  <MarbleCrate.description>Crate containing 75 Marble units</MarbleCrate.description>
+  <!-- EN: Processed Meat Crate (75) -->
+  <MeatCrate.label>Processed Meat Crate (75)</MeatCrate.label>
+  <!-- EN: Panthera Fur Crate (75) -->
+  <PantheraLeatherCrate.label>Panthera Fur Crate (75)</PantheraLeatherCrate.label>
+  <!-- EN: Patch Leather Crate (75) -->
+  <PatchLeatherCrate.label>Patch Leather Crate (75)</PatchLeatherCrate.label>
+  <!-- EN: Penoxycyline Crate (75) -->
+  <PenoxycylineCrate.label>Penoxycyline Crate (75)</PenoxycylineCrate.label>
+  <!-- EN: Pig Skin Crate (75) -->
+  <PigLeatherCrate.label>Pig Skin Crate (75)</PigLeatherCrate.label>
+  <!-- EN: Plain Leather Crate (75) -->
+  <PlainLeatherCrate.label>Plain Leather Crate (75)</PlainLeatherCrate.label>
+  <!-- EN: Plasteel Crate(75) -->
+  <PlasteelCrate.label>Plasteel Crate(75)</PlasteelCrate.label>
+  <!-- EN: Crate containing 75 wood units -->
+  <PlasteelCrate.description>Crate containing 75 wood units</PlasteelCrate.description>
+  <!-- EN: Potato Crate (75) -->
+  <PotatoCrate.label>Potato Crate (75)</PotatoCrate.label>
+  <!-- EN: Rhinoceros Leather Crate (75) -->
+  <RhinoLeatherCrate.label>Rhinoceros Leather Crate (75)</RhinoLeatherCrate.label>
+  <!-- EN: Rice Crate (75) -->
+  <RiceCrate.label>Rice Crate (75)</RiceCrate.label>
+  <!-- EN: Sandstone Crate(75) -->
+  <SandStoneCrate.label>Sandstone Crate(75)</SandStoneCrate.label>
+  <!-- EN: Crate containing 75 sandstone units -->
+  <SandStoneCrate.description>Crate containing 75 sandstone units</SandStoneCrate.description>
+  <!-- EN: Silver Crate(500) -->
+  <SilverCrate.label>Silver Crate(500)</SilverCrate.label>
+  <!-- EN: Crate containing 500 silver units -->
+  <SilverCrate.description>Crate containing 500 silver units</SilverCrate.description>
+  <!-- EN: Slate Crate(75) -->
+  <SlateCrate.label>Slate Crate(75)</SlateCrate.label>
+  <!-- EN: Crate containing 75 Slate units -->
+  <SlateCrate.description>Crate containing 75 Slate units</SlateCrate.description>
+  <!-- EN: Smokeleaf Joint (75) -->
+  <SmokeleafJointCrate.label>Smokeleaf Joint (75)</SmokeleafJointCrate.label>
+  <!-- EN: Steel Crate(75) -->
+  <SteelCrate.label>Steel Crate(75)</SteelCrate.label>
+  <!-- EN: Crate containing 75 steel units -->
+  <SteelCrate.description>Crate containing 75 steel units</SteelCrate.description>
+  <!-- EN: Synthread Crate (75) -->
+  <SynthreadCrate.label>Synthread Crate (75)</SynthreadCrate.label>
+  <!-- EN: Thrumbo Fur Crate (75) -->
+  <ThrumboLeatherCrate.label>Thrumbo Fur Crate (75)</ThrumboLeatherCrate.label>
+  <!-- EN: Uranium Crate(80) -->
+  <UraniumCrate.label>Uranium Crate(80)</UraniumCrate.label>
+  <!-- EN: Crate containing 80 uranium units -->
+  <UraniumCrate.description>Crate containing 80 uranium units</UraniumCrate.description>
+  <!-- EN: Wake-Up Crate (75) -->
+  <WakeUpCrate.label>Wake-Up Crate (75)</WakeUpCrate.label>
+  <!-- EN: Wolf Skin Crate (75) -->
+  <WolfLeatherCrate.label>Wolf Skin Crate (75)</WolfLeatherCrate.label>
+  <!-- EN: Wood Crate(75) -->
+  <WoodCrate.label>Wood Crate(75)</WoodCrate.label>
+  <!-- EN: Crate containing 75 wood units -->
+  <WoodCrate.description>Crate containing 75 wood units</WoodCrate.description>
+  <!-- EN: Yayo Crate (75) -->
+  <YayoCrate.label>Yayo Crate (75)</YayoCrate.label>
+</LanguageData>

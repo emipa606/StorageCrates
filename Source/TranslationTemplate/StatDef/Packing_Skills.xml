@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Hammering Efficiency -->
+  <HammeringEfficiency.label>Hammering Efficiency</HammeringEfficiency.label>
+  <!-- EN: Hitting harder, smashing better, crafting faster, plating stronger. -->
+  <HammeringEfficiency.description>Hitting harder, smashing better, crafting faster, plating stronger.</HammeringEfficiency.description>
+  <!-- EN: Hammering Speed -->
+  <HammeringSpeed.label>Hammering Speed</HammeringSpeed.label>
+  <!-- EN: How fast can someone be with a hammer before hammering their own fingers ? -->
+  <HammeringSpeed.description>How fast can someone be with a hammer before hammering their own fingers ?</HammeringSpeed.description>
+  <!-- EN: Packing Efficiency -->
+  <PackingEfficiency.label>Packing Efficiency</PackingEfficiency.label>
+  <!-- EN: Efficiency of finger movement colonist makes when pressing auto pack button -->
+  <PackingEfficiency.description>Efficiency of finger movement colonist makes when pressing auto pack button</PackingEfficiency.description>
+  <!-- EN: Packing Time -->
+  <PackingTime.label>Packing Time</PackingTime.label>
+  <!-- EN: Speed of colonist finger dropping with proporcional force/speed on auto packing button -->
+  <PackingTime.description>Speed of colonist finger dropping with proporcional force/speed on auto packing button</PackingTime.description>
+</LanguageData>

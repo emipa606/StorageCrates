@@ -16,10 +16,10 @@ internal class Crate : ThingWithComps
     {
         base.SpawnSetup(map, respawningAfterLoad);
         ReadFormXML();
-        LongEventHandler.ExecuteWhenFinished(SS2);
+        LongEventHandler.ExecuteWhenFinished(ss2);
     }
 
-    public void SS2()
+    private static void ss2()
     {
         UnLockIco = ContentFinder<Texture2D>.Get("Things/Building/Ui/Ui_unPack");
     }

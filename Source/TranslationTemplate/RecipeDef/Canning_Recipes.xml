@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Prepare meat -->
+  <PrepairMeat.label>Prepare meat</PrepairMeat.label>
+  <!-- EN: Cut off excess fat and trim the meat. -->
+  <PrepairMeat.description>Cut off excess fat and trim the meat.</PrepairMeat.description>
+  <!-- EN: Preparing meat. -->
+  <PrepairMeat.jobString>Preparing meat.</PrepairMeat.jobString>
+</LanguageData>

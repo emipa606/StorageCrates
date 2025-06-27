@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: packing -->
+  <DoBillsFoodPacking.gerund>packing</DoBillsFoodPacking.gerund>
+  <!-- EN: packer -->
+  <DoBillsFoodPacking.verb>packer</DoBillsFoodPacking.verb>
+  <!-- EN: packing -->
+  <DoBillsPacking.gerund>packing</DoBillsPacking.gerund>
+  <!-- EN: packer -->
+  <DoBillsPacking.verb>packer</DoBillsPacking.verb>
+  <!-- EN: packing -->
+  <DoBillsUnFoodPacking.gerund>packing</DoBillsUnFoodPacking.gerund>
+  <!-- EN: packer -->
+  <DoBillsUnFoodPacking.verb>packer</DoBillsUnFoodPacking.verb>
+  <!-- EN: packing -->
+  <DoBillsUnPacking.gerund>packing</DoBillsUnPacking.gerund>
+  <!-- EN: packer -->
+  <DoBillsUnPacking.verb>packer</DoBillsUnPacking.verb>
+</LanguageData>

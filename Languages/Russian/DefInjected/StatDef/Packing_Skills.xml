@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <PackingTime.label>Время упаковки</PackingTime.label>
   <PackingTime.description>Скорость пальцев персонажа снижается пропорционально силе/скорости нажатия на кнопку автоматической упаковки.</PackingTime.description>

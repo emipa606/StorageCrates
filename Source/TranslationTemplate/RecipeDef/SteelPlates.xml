@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Breakdown Steel Crate Plates -->
+  <BreakdownSteelPlate.label>Breakdown Steel Crate Plates</BreakdownSteelPlate.label>
+  <!-- EN: Melt the crate plates back into steel. -->
+  <BreakdownSteelPlate.description>Melt the crate plates back into steel.</BreakdownSteelPlate.description>
+  <!-- EN: Hammering. -->
+  <BreakdownSteelPlate.jobString>Hammering.</BreakdownSteelPlate.jobString>
+  <!-- EN: Make Steel Crate Plates -->
+  <MakeSteelPlate.label>Make Steel Crate Plates</MakeSteelPlate.label>
+  <!-- EN: Hammer some steel until you get a plate for use with making crates. -->
+  <MakeSteelPlate.description>Hammer some steel until you get a plate for use with making crates.</MakeSteelPlate.description>
+  <!-- EN: Hammering. -->
+  <MakeSteelPlate.jobString>Hammering.</MakeSteelPlate.jobString>
+</LanguageData>

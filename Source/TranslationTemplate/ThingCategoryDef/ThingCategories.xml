@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Blocks -->
+  <CratesBlock.label>Blocks</CratesBlock.label>
+  <!-- EN: Cloth -->
+  <CratesCText.label>Cloth</CratesCText.label>
+  <!-- EN: Drugs -->
+  <CratesDrug.label>Drugs</CratesDrug.label>
+  <!-- EN: Leather/Hide -->
+  <CratesLText.label>Leather/Hide</CratesLText.label>
+  <!-- EN: Materials -->
+  <CratesMat.label>Materials</CratesMat.label>
+  <!-- EN: Meat -->
+  <CratesMeat.label>Meat</CratesMeat.label>
+  <!-- EN: Farm/Green -->
+  <CratesRGrown.label>Farm/Green</CratesRGrown.label>
+  <!-- EN: Crates -->
+  <SCCrates.label>Crates</SCCrates.label>
+</LanguageData>

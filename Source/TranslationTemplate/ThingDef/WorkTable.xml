@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Consumables Packing Bench -->
+  <FoodPackingBench.label>Consumables Packing Bench</FoodPackingBench.label>
+  <!-- EN: Pack the food in the environment friendly crate. -->
+  <FoodPackingBench.description>Pack the food in the environment friendly crate.</FoodPackingBench.description>
+  <!-- EN: Consumeables Unpacking Bench -->
+  <FoodUnPackingBench.label>Consumeables Unpacking Bench</FoodUnPackingBench.label>
+  <!-- EN: Unpack the food from the environment friendly crate. -->
+  <FoodUnPackingBench.description>Unpack the food from the environment friendly crate.</FoodUnPackingBench.description>
+  <!-- EN: Packing Bench -->
+  <PackingBenchTierOne.label>Packing Bench</PackingBenchTierOne.label>
+  <!-- EN: A workbench where you can cut your meal with plasma torch or pack a crate. -->
+  <PackingBenchTierOne.description>A workbench where you can cut your meal with plasma torch or pack a crate.</PackingBenchTierOne.description>
+  <!-- EN: Unpacking Bench -->
+  <UnpackingBenchTierOne.label>Unpacking Bench</UnpackingBenchTierOne.label>
+  <!-- EN: A workbench where you can package items into a environment friendly crate. -->
+  <UnpackingBenchTierOne.description>A workbench where you can package items into a environment friendly crate.</UnpackingBenchTierOne.description>
+</LanguageData>

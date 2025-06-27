@@ -27,7 +27,7 @@ internal class FoodBench : Building_WorkTable
 
     private CompPowerTrader powerComp;
 
-    public bool stateOpen = true;
+    private bool stateOpen = true;
 
     private Graphic TexMain;
 
@@ -39,11 +39,11 @@ internal class FoodBench : Building_WorkTable
     {
         base.SpawnSetup(map, respawningAfterLoad);
         powerComp = GetComp<CompPowerTrader>();
-        LongEventHandler.ExecuteWhenFinished(SS2);
+        LongEventHandler.ExecuteWhenFinished(ss2);
         factionthing = factionInt;
     }
 
-    public void SS2()
+    private void ss2()
     {
         Ui_Pmode1 = ContentFinder<Texture2D>.Get("Things/Building/Ui/Ui_Pack");
         Ui_Pmode2 = ContentFinder<Texture2D>.Get("Things/Building/Ui/Ui_unPack");
@@ -73,37 +73,37 @@ internal class FoodBench : Building_WorkTable
     public override IEnumerable<Gizmo> GetGizmos()
     {
         IList<Gizmo> list = new List<Gizmo>();
-        var command_Action = new Command_Action();
+        var commandAction = new Command_Action();
         if (!Change && powerComp.PowerOn)
         {
             if (stateOpen)
             {
-                command_Action.icon = Ui_Pmode2;
-                command_Action.defaultDesc = "Change to Un-Packing Mode";
+                commandAction.icon = Ui_Pmode2;
+                commandAction.defaultDesc = "Change to Un-Packing Mode";
             }
             else
             {
-                command_Action.icon = Ui_Pmode1;
-                command_Action.defaultDesc = "Change to Packing Mode";
+                commandAction.icon = Ui_Pmode1;
+                commandAction.defaultDesc = "Change to Packing Mode";
             }
 
-            command_Action.activateSound = SoundDef.Named("Click");
-            command_Action.action = Open;
-            command_Action.groupKey = 78142894;
-            command_Action.hotKey = KeyBindingDefOf.Misc1;
-            list.Add(command_Action);
+            commandAction.activateSound = SoundDef.Named("Click");
+            commandAction.action = open;
+            commandAction.groupKey = 78142894;
+            commandAction.hotKey = KeyBindingDefOf.Misc1;
+            list.Add(commandAction);
         }
 
         var gizmos = base.GetGizmos();
         return gizmos == null ? list.AsEnumerable() : list.AsEnumerable().Concat(gizmos);
     }
 
-    private void Open()
+    private void open()
     {
         Change = !Change;
     }
 
-    public override void Tick()
+    protected override void Tick()
     {
         base.Tick();
         if (!Change || !powerComp.PowerOn)
@@ -111,7 +111,7 @@ internal class FoodBench : Building_WorkTable
             return;
         }
 
-        HandleAnimation(!stateOpen);
+        handleAnimation(!stateOpen);
 
         timer++;
         Map.mapDrawer.MapMeshDirty(Position, MapMeshFlagDefOf.Things, false, false);
@@ -140,7 +140,7 @@ internal class FoodBench : Building_WorkTable
         Change = false;
     }
 
-    private void HandleAnimation(bool open)
+    private void handleAnimation(bool open)
     {
         if (timer >= 60)
         {
@@ -154,10 +154,10 @@ internal class FoodBench : Building_WorkTable
         }
 
         TexMain = TexResFrames[num];
-        UpdateOutputGraphic();
+        updateOutputGraphic();
     }
 
-    private void UpdateOutputGraphic()
+    private void updateOutputGraphic()
     {
         OutputGraphic = TexMain.GetColoredVersion(def.graphicData.Graphic.Shader, Stuff.stuffProps.color,
             Stuff.stuffProps.color);

@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Agave Crate (75) -->
+  <makeAgaveCrate.label>Agave Crate (75)</makeAgaveCrate.label>
+  <!-- EN: Packs 75 agave fruits into a crate. -->
+  <makeAgaveCrate.description>Packs 75 agave fruits into a crate.</makeAgaveCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeAgaveCrate.jobString>Packing heat.</makeAgaveCrate.jobString>
+  <!-- EN: Bear Fur Crate (75) -->
+  <makeBearLeatherCrate.label>Bear Fur Crate (75)</makeBearLeatherCrate.label>
+  <!-- EN: Packs 75 Bear Fur into a crate. -->
+  <makeBearLeatherCrate.description>Packs 75 Bear Fur into a crate.</makeBearLeatherCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeBearLeatherCrate.jobString>Packing heat.</makeBearLeatherCrate.jobString>
+  <!-- EN: Berry Crate (75) -->
+  <makeBerryCrate.label>Berry Crate (75)</makeBerryCrate.label>
+  <!-- EN: Packs 75 berries into a crate. -->
+  <makeBerryCrate.description>Packs 75 berries into a crate.</makeBerryCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeBerryCrate.jobString>Packing heat.</makeBerryCrate.jobString>
+  <!-- EN: Bird Leather Crate (75) -->
+  <makeBirdLeatherCrate.label>Bird Leather Crate (75)</makeBirdLeatherCrate.label>
+  <!-- EN: Packs 75 Bird Leather into a crate. -->
+  <makeBirdLeatherCrate.description>Packs 75 Bird Leather into a crate.</makeBirdLeatherCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeBirdLeatherCrate.jobString>Packing heat.</makeBirdLeatherCrate.jobString>
+  <!-- EN: Blue Fur Crate (75) -->
+  <makeBluefurLeatherCrate.label>Blue Fur Crate (75)</makeBluefurLeatherCrate.label>
+  <!-- EN: Packs 75 Blue Fur into a crate. -->
+  <makeBluefurLeatherCrate.description>Packs 75 Blue Fur into a crate.</makeBluefurLeatherCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeBluefurLeatherCrate.jobString>Packing heat.</makeBluefurLeatherCrate.jobString>
+  <!-- EN: Camel Hide Crate (75) -->
+  <makeCamelLeatherCrate.label>Camel Hide Crate (75)</makeCamelLeatherCrate.label>
+  <!-- EN: Packs 75 Camel hides into a crate. -->
+  <makeCamelLeatherCrate.description>Packs 75 Camel hides into a crate.</makeCamelLeatherCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeCamelLeatherCrate.jobString>Packing heat.</makeCamelLeatherCrate.jobString>
+  <!-- EN: Chemfuel Barrel (75) -->
+  <makeChemfuelCrate.label>Chemfuel Barrel (75)</makeChemfuelCrate.label>
+  <!-- EN: Packs 75 Chemfuel into a barrel. -->
+  <makeChemfuelCrate.description>Packs 75 Chemfuel into a barrel.</makeChemfuelCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeChemfuelCrate.jobString>Packing heat.</makeChemfuelCrate.jobString>
+  <!-- EN: Chinchilla Fur Crate (75) -->
+  <makeChinchillaLeatherCrate.label>Chinchilla Fur Crate (75)</makeChinchillaLeatherCrate.label>
+  <!-- EN: Packs 75 Chinchilla fur into a crate. -->
+  <makeChinchillaLeatherCrate.description>Packs 75 Chinchilla fur into a crate.</makeChinchillaLeatherCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeChinchillaLeatherCrate.jobString>Packing heat.</makeChinchillaLeatherCrate.jobString>
+  <!-- EN: Cloth Crate (75) -->
+  <makeClothCrate.label>Cloth Crate (75)</makeClothCrate.label>
+  <!-- EN: Packs 75 cloths into a crate. -->
+  <makeClothCrate.description>Packs 75 cloths into a crate.</makeClothCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeClothCrate.jobString>Packing heat.</makeClothCrate.jobString>
+  <!-- EN: Corn Crate (75) -->
+  <makeCornCrate.label>Corn Crate (75)</makeCornCrate.label>
+  <!-- EN: Packs 75 corn into a crate. -->
+  <makeCornCrate.description>Packs 75 corn into a crate.</makeCornCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeCornCrate.jobString>Packing heat.</makeCornCrate.jobString>
+  <!-- EN: Devilstrand Crate (75) -->
+  <makeDevilstrandCrate.label>Devilstrand Crate (75)</makeDevilstrandCrate.label>
+  <!-- EN: Packs 75 devilstrand into a crate. -->
+  <makeDevilstrandCrate.description>Packs 75 devilstrand into a crate.</makeDevilstrandCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeDevilstrandCrate.jobString>Packing heat.</makeDevilstrandCrate.jobString>
+  <!-- EN: Dog Leather Crate (75) -->
+  <makeDogLeatherCrate.label>Dog Leather Crate (75)</makeDogLeatherCrate.label>
+  <!-- EN: Packs 75 Dog leather into a crate. -->
+  <makeDogLeatherCrate.description>Packs 75 Dog leather into a crate.</makeDogLeatherCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeDogLeatherCrate.jobString>Packing heat.</makeDogLeatherCrate.jobString>
+  <!-- EN: Elephant Leather Crate (75) -->
+  <makeElephantLeatherCrate.label>Elephant Leather Crate (75)</makeElephantLeatherCrate.label>
+  <!-- EN: Packs 75 Elephant leather into a crate. -->
+  <makeElephantLeatherCrate.description>Packs 75 Elephant leather into a crate.</makeElephantLeatherCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeElephantLeatherCrate.jobString>Packing heat.</makeElephantLeatherCrate.jobString>
+  <!-- EN: Flake Crate (75) -->
+  <makeFlakeCrate.label>Flake Crate (75)</makeFlakeCrate.label>
+  <!-- EN: Packs 75 Flake into a crate. -->
+  <makeFlakeCrate.description>Packs 75 Flake into a crate.</makeFlakeCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeFlakeCrate.jobString>Packing heat.</makeFlakeCrate.jobString>
+  <!-- EN: Fox fur Crate (75) -->
+  <makeFoxLeatherCrate.label>Fox fur Crate (75)</makeFoxLeatherCrate.label>
+  <!-- EN: Packs 75 Fox fur into a crate. -->
+  <makeFoxLeatherCrate.description>Packs 75 Fox fur into a crate.</makeFoxLeatherCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeFoxLeatherCrate.jobString>Packing heat.</makeFoxLeatherCrate.jobString>
+  <!-- EN: Go-Juice Crate (75) -->
+  <makeGoJuiceCrate.label>Go-Juice Crate (75)</makeGoJuiceCrate.label>
+  <!-- EN: Packs 75 Go-Juice into a crate. -->
+  <makeGoJuiceCrate.description>Packs 75 Go-Juice into a crate.</makeGoJuiceCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeGoJuiceCrate.jobString>Packing heat.</makeGoJuiceCrate.jobString>
+  <!-- EN: Gold Crate (500) -->
+  <makeGoldCrate.label>Gold Crate (500)</makeGoldCrate.label>
+  <!-- EN: Packs 500 gold pieces into a crate. -->
+  <makeGoldCrate.description>Packs 500 gold pieces into a crate.</makeGoldCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeGoldCrate.jobString>Packing heat.</makeGoldCrate.jobString>
+  <!-- EN: Granite Crate (75) -->
+  <makeGraniteCrate.label>Granite Crate (75)</makeGraniteCrate.label>
+  <!-- EN: Packs 75 granite blocks into a crate. -->
+  <makeGraniteCrate.description>Packs 75 granite blocks into a crate.</makeGraniteCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeGraniteCrate.jobString>Packing heat.</makeGraniteCrate.jobString>
+  <!-- EN: Heavy Fur Crate (75) -->
+  <makeHeavyLeatherCrate.label>Heavy Fur Crate (75)</makeHeavyLeatherCrate.label>
+  <!-- EN: Packs 75 Heavy Fur into a crate. -->
+  <makeHeavyLeatherCrate.description>Packs 75 Heavy Fur into a crate.</makeHeavyLeatherCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeHeavyLeatherCrate.jobString>Packing heat.</makeHeavyLeatherCrate.jobString>
+  <!-- EN: Hops Crate (75) -->
+  <makeHopsCrate.label>Hops Crate (75)</makeHopsCrate.label>
+  <!-- EN: Packs 75 hops into a crate. -->
+  <makeHopsCrate.description>Packs 75 hops into a crate.</makeHopsCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeHopsCrate.jobString>Packing heat.</makeHopsCrate.jobString>
+  <!-- EN: Human Leather Crate (75) -->
+  <makeHumanLeatherCrate.label>Human Leather Crate (75)</makeHumanLeatherCrate.label>
+  <!-- EN: Packs 75 Human Leather into a crate. -->
+  <makeHumanLeatherCrate.description>Packs 75 Human Leather into a crate.</makeHumanLeatherCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeHumanLeatherCrate.jobString>Packing heat.</makeHumanLeatherCrate.jobString>
+  <!-- EN: Hyperwave Crate (75) -->
+  <makeHyperwaveCrate.label>Hyperwave Crate (75)</makeHyperwaveCrate.label>
+  <!-- EN: Packs 75 hyperwave into a crate. -->
+  <makeHyperwaveCrate.description>Packs 75 hyperwave into a crate.</makeHyperwaveCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeHyperwaveCrate.jobString>Packing heat.</makeHyperwaveCrate.jobString>
+  <!-- EN: Light Leather Crate (75) -->
+  <makeLightLeatherCrate.label>Light Leather Crate (75)</makeLightLeatherCrate.label>
+  <!-- EN: Packs 75 Light leather into a crate. -->
+  <makeLightLeatherCrate.description>Packs 75 Light leather into a crate.</makeLightLeatherCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeLightLeatherCrate.jobString>Packing heat.</makeLightLeatherCrate.jobString>
+  <!-- EN: Limestone Crate (75) -->
+  <makeLimestoneCrate.label>Limestone Crate (75)</makeLimestoneCrate.label>
+  <!-- EN: Packs 75 limestone blocks into a crate. -->
+  <makeLimestoneCrate.description>Packs 75 limestone blocks into a crate.</makeLimestoneCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeLimestoneCrate.jobString>Packing heat.</makeLimestoneCrate.jobString>
+  <!-- EN: Lizard Leather Crate (75) -->
+  <makeLizardLeatherCrate.label>Lizard Leather Crate (75)</makeLizardLeatherCrate.label>
+  <!-- EN: Packs 75 Lizard leather into a crate. -->
+  <makeLizardLeatherCrate.description>Packs 75 Lizard leather into a crate.</makeLizardLeatherCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeLizardLeatherCrate.jobString>Packing heat.</makeLizardLeatherCrate.jobString>
+  <!-- EN: Luciferium Crate (75) -->
+  <makeLuciferiumCrate.label>Luciferium Crate (75)</makeLuciferiumCrate.label>
+  <!-- EN: Packs 75 veggies cans into a crate. -->
+  <makeLuciferiumCrate.description>Packs 75 veggies cans into a crate.</makeLuciferiumCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeLuciferiumCrate.jobString>Packing heat.</makeLuciferiumCrate.jobString>
+  <!-- EN: Marble Crate (75) -->
+  <makeMarbleCrate.label>Marble Crate (75)</makeMarbleCrate.label>
+  <!-- EN: Packs 75 marble blocks into a crate. -->
+  <makeMarbleCrate.description>Packs 75 marble blocks into a crate.</makeMarbleCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeMarbleCrate.jobString>Packing heat.</makeMarbleCrate.jobString>
+  <!-- EN: Processed Meat Crate (75) -->
+  <makeMeatCrate.label>Processed Meat Crate (75)</makeMeatCrate.label>
+  <!-- EN: Packs 75 processed meat into a crate. -->
+  <makeMeatCrate.description>Packs 75 processed meat into a crate.</makeMeatCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeMeatCrate.jobString>Packing heat.</makeMeatCrate.jobString>
+  <!-- EN: Panthera Fur Crate (75) -->
+  <makePantheraLeatherCrate.label>Panthera Fur Crate (75)</makePantheraLeatherCrate.label>
+  <!-- EN: Packs 75 Panthera Fur into a crate. -->
+  <makePantheraLeatherCrate.description>Packs 75 Panthera Fur into a crate.</makePantheraLeatherCrate.description>
+  <!-- EN: Packing heat. -->
+  <makePantheraLeatherCrate.jobString>Packing heat.</makePantheraLeatherCrate.jobString>
+  <!-- EN: Patch Leather Crate (75) -->
+  <makePatchLeatherCrate.label>Patch Leather Crate (75)</makePatchLeatherCrate.label>
+  <!-- EN: Packs 75 Patch Leather into a crate. -->
+  <makePatchLeatherCrate.description>Packs 75 Patch Leather into a crate.</makePatchLeatherCrate.description>
+  <!-- EN: Packing heat. -->
+  <makePatchLeatherCrate.jobString>Packing heat.</makePatchLeatherCrate.jobString>
+  <!-- EN: Penoxycyline Crate (75) -->
+  <makePenoxycylineCrate.label>Penoxycyline Crate (75)</makePenoxycylineCrate.label>
+  <!-- EN: Packs 75 Penoxycyline into a crate. -->
+  <makePenoxycylineCrate.description>Packs 75 Penoxycyline into a crate.</makePenoxycylineCrate.description>
+  <!-- EN: Packing heat. -->
+  <makePenoxycylineCrate.jobString>Packing heat.</makePenoxycylineCrate.jobString>
+  <!-- EN: Pig Skin Crate (75) -->
+  <makePigLeatherCrate.label>Pig Skin Crate (75)</makePigLeatherCrate.label>
+  <!-- EN: Packs 75 Pig skins into a crate. -->
+  <makePigLeatherCrate.description>Packs 75 Pig skins into a crate.</makePigLeatherCrate.description>
+  <!-- EN: Packing heat. -->
+  <makePigLeatherCrate.jobString>Packing heat.</makePigLeatherCrate.jobString>
+  <!-- EN: Plain Leather Crate (75) -->
+  <makePlainLeatherCrate.label>Plain Leather Crate (75)</makePlainLeatherCrate.label>
+  <!-- EN: Packs 75 Plain leather into a crate. -->
+  <makePlainLeatherCrate.description>Packs 75 Plain leather into a crate.</makePlainLeatherCrate.description>
+  <!-- EN: Packing heat. -->
+  <makePlainLeatherCrate.jobString>Packing heat.</makePlainLeatherCrate.jobString>
+  <!-- EN: Plasteel Crate (75) -->
+  <makePlasteelCrate.label>Plasteel Crate (75)</makePlasteelCrate.label>
+  <!-- EN: Packs 75 plasteel pieces into a crate. -->
+  <makePlasteelCrate.description>Packs 75 plasteel pieces into a crate.</makePlasteelCrate.description>
+  <!-- EN: Packing heat. -->
+  <makePlasteelCrate.jobString>Packing heat.</makePlasteelCrate.jobString>
+  <!-- EN: Potato Crate (75) -->
+  <makePotatoCrate.label>Potato Crate (75)</makePotatoCrate.label>
+  <!-- EN: Packs 75 potatoes into a crate. -->
+  <makePotatoCrate.description>Packs 75 potatoes into a crate.</makePotatoCrate.description>
+  <!-- EN: Packing heat. -->
+  <makePotatoCrate.jobString>Packing heat.</makePotatoCrate.jobString>
+  <!-- EN: Psychoid Leaves Crate (75) -->
+  <makePsychoidLeavesCrate.label>Psychoid Leaves Crate (75)</makePsychoidLeavesCrate.label>
+  <!-- EN: Packs 75 Psychoid Leaves into a crate. -->
+  <makePsychoidLeavesCrate.description>Packs 75 Psychoid Leaves into a crate.</makePsychoidLeavesCrate.description>
+  <!-- EN: Packing heat. -->
+  <makePsychoidLeavesCrate.jobString>Packing heat.</makePsychoidLeavesCrate.jobString>
+  <!-- EN: Rhino Leather Crate (75) -->
+  <makeRhinoLeatherCrate.label>Rhino Leather Crate (75)</makeRhinoLeatherCrate.label>
+  <!-- EN: Packs 75 Rhino leather into a crate. -->
+  <makeRhinoLeatherCrate.description>Packs 75 Rhino leather into a crate.</makeRhinoLeatherCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeRhinoLeatherCrate.jobString>Packing heat.</makeRhinoLeatherCrate.jobString>
+  <!-- EN: Rice Crate (75) -->
+  <makeRiceCrate.label>Rice Crate (75)</makeRiceCrate.label>
+  <!-- EN: Packs 75 rice into a crate. -->
+  <makeRiceCrate.description>Packs 75 rice into a crate.</makeRiceCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeRiceCrate.jobString>Packing heat.</makeRiceCrate.jobString>
+  <!-- EN: Sandstone Crate (75) -->
+  <makeSandstoneCrate.label>Sandstone Crate (75)</makeSandstoneCrate.label>
+  <!-- EN: Packs 75 sandstone blocks into a crate. -->
+  <makeSandstoneCrate.description>Packs 75 sandstone blocks into a crate.</makeSandstoneCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeSandstoneCrate.jobString>Packing heat.</makeSandstoneCrate.jobString>
+  <!-- EN: Slate Crate (75) -->
+  <makeSlateCrate.label>Slate Crate (75)</makeSlateCrate.label>
+  <!-- EN: Packs 75 slate blocks into a crate. -->
+  <makeSlateCrate.description>Packs 75 slate blocks into a crate.</makeSlateCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeSlateCrate.jobString>Packing heat.</makeSlateCrate.jobString>
+  <!-- EN: Smokeleaf Joint Crate (75) -->
+  <makeSmokeleafJointCrate.label>Smokeleaf Joint Crate (75)</makeSmokeleafJointCrate.label>
+  <!-- EN: Packs 75 Smokeleaf Joints into a crate. -->
+  <makeSmokeleafJointCrate.description>Packs 75 Smokeleaf Joints into a crate.</makeSmokeleafJointCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeSmokeleafJointCrate.jobString>Packing heat.</makeSmokeleafJointCrate.jobString>
+  <!-- EN: Smokeleaf Leaves Crate (75) -->
+  <makeSmokeleafLeavesCrate.label>Smokeleaf Leaves Crate (75)</makeSmokeleafLeavesCrate.label>
+  <!-- EN: Packs 75 Smokeleaf Leaves into a crate. -->
+  <makeSmokeleafLeavesCrate.description>Packs 75 Smokeleaf Leaves into a crate.</makeSmokeleafLeavesCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeSmokeleafLeavesCrate.jobString>Packing heat.</makeSmokeleafLeavesCrate.jobString>
+  <!-- EN: Steel Crate (75) -->
+  <makeSteelCrate.label>Steel Crate (75)</makeSteelCrate.label>
+  <!-- EN: Packs 75 steel pieces into a crate. -->
+  <makeSteelCrate.description>Packs 75 steel pieces into a crate.</makeSteelCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeSteelCrate.jobString>Packing heat.</makeSteelCrate.jobString>
+  <!-- EN: Synthread Crate (75) -->
+  <makeSynthreadCrate.label>Synthread Crate (75)</makeSynthreadCrate.label>
+  <!-- EN: Packs 75 synthread into a crate. -->
+  <makeSynthreadCrate.description>Packs 75 synthread into a crate.</makeSynthreadCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeSynthreadCrate.jobString>Packing heat.</makeSynthreadCrate.jobString>
+  <!-- EN: Thrumbo fur Crate (75) -->
+  <makeThrumboLeatherCrate.label>Thrumbo fur Crate (75)</makeThrumboLeatherCrate.label>
+  <!-- EN: Packs 75 thrumbo fur into a crate. -->
+  <makeThrumboLeatherCrate.description>Packs 75 thrumbo fur into a crate.</makeThrumboLeatherCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeThrumboLeatherCrate.jobString>Packing heat.</makeThrumboLeatherCrate.jobString>
+  <!-- EN: Uranium Crate (80) -->
+  <makeUraniumCrate.label>Uranium Crate (80)</makeUraniumCrate.label>
+  <!-- EN: Packs 80 uranium pieces into a crate. -->
+  <makeUraniumCrate.description>Packs 80 uranium pieces into a crate.</makeUraniumCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeUraniumCrate.jobString>Packing heat.</makeUraniumCrate.jobString>
+  <!-- EN: Wake-Up Crate (75) -->
+  <makeWakeUpCrate.label>Wake-Up Crate (75)</makeWakeUpCrate.label>
+  <!-- EN: Packs 75 Wake-Up into a crate. -->
+  <makeWakeUpCrate.description>Packs 75 Wake-Up into a crate.</makeWakeUpCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeWakeUpCrate.jobString>Packing heat.</makeWakeUpCrate.jobString>
+  <!-- EN: Timberwolf Skin Crate (75) -->
+  <makeWolfLeatherCrate.label>Timberwolf Skin Crate (75)</makeWolfLeatherCrate.label>
+  <!-- EN: Packs 75 Wolf skins into a crate. -->
+  <makeWolfLeatherCrate.description>Packs 75 Wolf skins into a crate.</makeWolfLeatherCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeWolfLeatherCrate.jobString>Packing heat.</makeWolfLeatherCrate.jobString>
+  <!-- EN: Wood log Crate (75) -->
+  <makeWoodCrate.label>Wood log Crate (75)</makeWoodCrate.label>
+  <!-- EN: Packs 75 wood logs into a crate. -->
+  <makeWoodCrate.description>Packs 75 wood logs into a crate.</makeWoodCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeWoodCrate.jobString>Packing heat.</makeWoodCrate.jobString>
+  <!-- EN: Yayo Crate (75) -->
+  <makeYayoCrate.label>Yayo Crate (75)</makeYayoCrate.label>
+  <!-- EN: Packs 75 Yayo into a crate. -->
+  <makeYayoCrate.description>Packs 75 Yayo into a crate.</makeYayoCrate.description>
+  <!-- EN: Packing heat. -->
+  <makeYayoCrate.jobString>Packing heat.</makeYayoCrate.jobString>
+</LanguageData>
