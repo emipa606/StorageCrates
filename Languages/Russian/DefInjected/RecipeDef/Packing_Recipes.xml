@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- Minerals -->
   <makeSteelCrate.label>Упаковать сталь (75)</makeSteelCrate.label>
@@ -46,45 +46,12 @@
   <makeDevilstrandCrate.description>Упаковать 75 дьявлоткани в контейнер.</makeDevilstrandCrate.description>
   <makeDevilstrandCrate.jobString>Упаковывает.</makeDevilstrandCrate.jobString>
   <!-- Leather/Hide -->
-  <makeTurkeyLeatherCrate.label>Упаковать шкуры индеек (75)</makeTurkeyLeatherCrate.label>
-  <makeTurkeyLeatherCrate.description>Упаковать 75 шкур индеек в контейнер.</makeTurkeyLeatherCrate.description>
-  <makeTurkeyLeatherCrate.jobString>Упаковывает.</makeTurkeyLeatherCrate.jobString>
-  <makeAlpacaLeatherCrate.label>Упаковать шкуры альпака (75)</makeAlpacaLeatherCrate.label>
-  <makeAlpacaLeatherCrate.description>Упаковать 75 шкур альпака в контейнер.</makeAlpacaLeatherCrate.description>
-  <makeAlpacaLeatherCrate.jobString>Упаковывает.</makeAlpacaLeatherCrate.jobString>
   <makePigLeatherCrate.label>Упаковать свиные кожи (75)</makePigLeatherCrate.label>
   <makePigLeatherCrate.description>Упаковать 75 свиных кож в контейнер.</makePigLeatherCrate.description>
   <makePigLeatherCrate.jobString>Упаковывает.</makePigLeatherCrate.jobString>
-  <makeCowLeatherCrate.label>Упаковать коровьи шкуры (75)</makeCowLeatherCrate.label>
-  <makeCowLeatherCrate.description>Упаковать 75 коровьих шкур в контейнер.</makeCowLeatherCrate.description>
-  <makeCowLeatherCrate.jobString>Упаковывает.</makeCowLeatherCrate.jobString>
   <makeElephantLeatherCrate.label>Упаковать слоновьи шкуры (75)</makeElephantLeatherCrate.label>
   <makeElephantLeatherCrate.description>Упаковать 75 слоновьих шкур в контейнер.</makeElephantLeatherCrate.description>
   <makeElephantLeatherCrate.jobString>Упаковывает.</makeElephantLeatherCrate.jobString>
-  <makeDeerLeatherCrate.label>Упаковать оленьи шкуры (75)</makeDeerLeatherCrate.label>
-  <makeDeerLeatherCrate.description>Упаковать 75 оленьих шкур в контейнер.</makeDeerLeatherCrate.description>
-  <makeDeerLeatherCrate.jobString>Упаковывает.</makeDeerLeatherCrate.jobString>
-  <makeMegaslothLeatherCrate.label>Упаковать шкуры ленивцев (75)</makeMegaslothLeatherCrate.label>
-  <makeMegaslothLeatherCrate.description>Упаковать 75 шкур ленивцев в контейнер.</makeMegaslothLeatherCrate.description>
-  <makeMegaslothLeatherCrate.jobString>Упаковывает.</makeMegaslothLeatherCrate.jobString>
-  <makeElkLeatherCrate.label>Упаковать лосиные шкуры (75)</makeElkLeatherCrate.label>
-  <makeElkLeatherCrate.description>Упаковать 75 лосиных шкур в контейнер.</makeElkLeatherCrate.description>
-  <makeElkLeatherCrate.jobString>Упаковывает.</makeElkLeatherCrate.jobString>
-  <makeTimberwolfLeatherCrate.label>Упаковать волчьи шкуры (75)</makeTimberwolfLeatherCrate.label>
-  <makeTimberwolfLeatherCrate.description>Упаковать 75 волчьих шкур в контейнер.</makeTimberwolfLeatherCrate.description>
-  <makeTimberwolfLeatherCrate.jobString>Упаковывает.</makeTimberwolfLeatherCrate.jobString>
-  <makeArcticwolfLeatherCrate.label>Упаковать снеговолчьи шкуры (75)</makeArcticwolfLeatherCrate.label>
-  <makeArcticwolfLeatherCrate.description>Упаковать 75 снеговолчьих шкур в контейнер.</makeArcticwolfLeatherCrate.description>
-  <makeArcticwolfLeatherCrate.jobString>Упаковывает.</makeArcticwolfLeatherCrate.jobString>
-  <makeFennecfoxLeatherCrate.label>Упаковать шкуры фенеков (75)</makeFennecfoxLeatherCrate.label>
-  <makeFennecfoxLeatherCrate.description>Упаковать 75 шкур фенеков в контейнер.</makeFennecfoxLeatherCrate.description>
-  <makeFennecfoxLeatherCrate.jobString>Упаковывает.</makeFennecfoxLeatherCrate.jobString>
-  <makeRedfoxLeatherCrate.label>Упаковать лисьи шкуры (75)</makeRedfoxLeatherCrate.label>
-  <makeRedfoxLeatherCrate.description>Упаковать 75 лисьих шкур в контейнер.</makeRedfoxLeatherCrate.description>
-  <makeRedfoxLeatherCrate.jobString>Упаковывает.</makeRedfoxLeatherCrate.jobString>
-  <makeArcticfoxLeatherCrate.label>Упаковать песцовые шкуры (75)</makeArcticfoxLeatherCrate.label>
-  <makeArcticfoxLeatherCrate.description>Упаковать 75 песцовых шкур в контейнер.</makeArcticfoxLeatherCrate.description>
-  <makeArcticfoxLeatherCrate.jobString>Упаковывает.</makeArcticfoxLeatherCrate.jobString>
   <!-- Herbi -->
   <makePotatoCrate.label>Упаковать картофель (75)</makePotatoCrate.label>
   <makePotatoCrate.description>Упаковать 75 картофеля в контейнер.</makePotatoCrate.description>
@@ -104,12 +71,6 @@
   <makeCornCrate.label>Упаковать кукурузу (75)</makeCornCrate.label>
   <makeCornCrate.description>Упаковать 75 кукурузы в контейнер.</makeCornCrate.description>
   <makeCornCrate.jobString>Упаковывает.</makeCornCrate.jobString>
-  <makeMeatCanCrate.label>Упаковать мясные консервы (75)</makeMeatCanCrate.label>
-  <makeMeatCanCrate.description>Упаковать 75 мясных консервов в контейнер.</makeMeatCanCrate.description>
-  <makeMeatCanCrate.jobString>Упаковывает консервы.</makeMeatCanCrate.jobString>
-  <makeVeggiesCanCrate.label>Упаковать овощные консервы (75)</makeVeggiesCanCrate.label>
-  <makeVeggiesCanCrate.description>Упаковать 75 овощных консервов в контейнер.</makeVeggiesCanCrate.description>
-  <makeVeggiesCanCrate.jobString>Упаковывает консервы.</makeVeggiesCanCrate.jobString>
   <!-- _Drugs_ -->
   <makeSmokeleafJointCrate.label>Упаковать листья дымолиста (75)</makeSmokeleafJointCrate.label>
   <makeSmokeleafJointCrate.description>Упаковать 75 листьев дымолиста в контейнер.</makeSmokeleafJointCrate.description>
@@ -145,5 +106,158 @@
   <makeMeatCrate.jobString>Упаковывает.</makeMeatCrate.jobString>
   <makeChemfuelCrate.label>Поместить химическое топливо (75) в бочонок</makeChemfuelCrate.label>
   <makeChemfuelCrate.description>Поместить 75 единиц химического топлива в бочонок.</makeChemfuelCrate.description>
-  <makeChemfuelCrate.jobstring>Закупоривает бочонок с топливом.</makeChemfuelCrate.jobstring>
+  <!--The following translations were generated by https://www.deepl.com/-->
+  <!-- EN: Agave Crate (75) -->
+  <!-- EN: Packs 75 agave fruits into a crate. -->
+  <!-- EN: Packing heat. -->
+  <!-- EN: Bear Fur Crate (75) -->
+  <makeBearLeatherCrate.label>Ящик с медвежьей шкурой (75)</makeBearLeatherCrate.label>
+  <!-- EN: Packs 75 Bear Fur into a crate. -->
+  <makeBearLeatherCrate.description>Упаковывает 75 медвежьих шкур в ящик.</makeBearLeatherCrate.description>
+  <makeBearLeatherCrate.jobString>Вооружение.</makeBearLeatherCrate.jobString>
+  <!-- EN: Berry Crate (75) -->
+  <!-- EN: Packs 75 berries into a crate. -->
+  <!-- EN: Bird Leather Crate (75) -->
+  <makeBirdLeatherCrate.label>Ящик с птичьей кожей (75)</makeBirdLeatherCrate.label>
+  <!-- EN: Packs 75 Bird Leather into a crate. -->
+  <makeBirdLeatherCrate.description>Упаковывает 75 единиц птичьей кожи в ящик.</makeBirdLeatherCrate.description>
+  <makeBirdLeatherCrate.jobString>Вооружение.</makeBirdLeatherCrate.jobString>
+  <!-- EN: Blue Fur Crate (75) -->
+  <makeBluefurLeatherCrate.label>Ящик с синей шерстью (75)</makeBluefurLeatherCrate.label>
+  <!-- EN: Packs 75 Blue Fur into a crate. -->
+  <makeBluefurLeatherCrate.description>Упаковывает 75 единиц «Синей шерсти» в ящик.</makeBluefurLeatherCrate.description>
+  <makeBluefurLeatherCrate.jobString>Вооружение.</makeBluefurLeatherCrate.jobString>
+  <!-- EN: Camel Hide Crate (75) -->
+  <makeCamelLeatherCrate.label>Ящик с верблюжьей шкурой (75)</makeCamelLeatherCrate.label>
+  <!-- EN: Packs 75 Camel hides into a crate. -->
+  <makeCamelLeatherCrate.description>Упаковывает 75 верблюжьих шкур в ящик.</makeCamelLeatherCrate.description>
+  <makeCamelLeatherCrate.jobString>Вооружение.</makeCamelLeatherCrate.jobString>
+  <!-- EN: Chemfuel Barrel (75) -->
+  <!-- EN: Packs 75 Chemfuel into a barrel. -->
+  <makeChemfuelCrate.jobString>Вооружение.</makeChemfuelCrate.jobString>
+  <!-- EN: Chinchilla Fur Crate (75) -->
+  <makeChinchillaLeatherCrate.label>Ящик с мехом шиншиллы (75)</makeChinchillaLeatherCrate.label>
+  <!-- EN: Packs 75 Chinchilla fur into a crate. -->
+  <makeChinchillaLeatherCrate.description>Упаковывает 75 шкурок шиншиллы в ящик.</makeChinchillaLeatherCrate.description>
+  <makeChinchillaLeatherCrate.jobString>Вооружение.</makeChinchillaLeatherCrate.jobString>
+  <!-- EN: Cloth Crate (75) -->
+  <!-- EN: Packs 75 cloths into a crate. -->
+  <!-- EN: Corn Crate (75) -->
+  <!-- EN: Packs 75 corn into a crate. -->
+  <!-- EN: Devilstrand Crate (75) -->
+  <!-- EN: Packs 75 devilstrand into a crate. -->
+  <!-- EN: Dog Leather Crate (75) -->
+  <makeDogLeatherCrate.label>Ящик из собачьей кожи (75)</makeDogLeatherCrate.label>
+  <!-- EN: Packs 75 Dog leather into a crate. -->
+  <makeDogLeatherCrate.description>Упаковывает 75 единиц собачьей кожи в ящик.</makeDogLeatherCrate.description>
+  <makeDogLeatherCrate.jobString>Вооружение.</makeDogLeatherCrate.jobString>
+  <!-- EN: Elephant Leather Crate (75) -->
+  <!-- EN: Packs 75 Elephant leather into a crate. -->
+  <!-- EN: Flake Crate (75) -->
+  <!-- EN: Packs 75 Flake into a crate. -->
+  <!-- EN: Fox fur Crate (75) -->
+  <makeFoxLeatherCrate.label>Ящик с лисьим мехом (75)</makeFoxLeatherCrate.label>
+  <!-- EN: Packs 75 Fox fur into a crate. -->
+  <makeFoxLeatherCrate.description>Упаковывает 75 лисьих шкур в ящик.</makeFoxLeatherCrate.description>
+  <makeFoxLeatherCrate.jobString>Вооружение.</makeFoxLeatherCrate.jobString>
+  <!-- EN: Go-Juice Crate (75) -->
+  <!-- EN: Packs 75 Go-Juice into a crate. -->
+  <!-- EN: Gold Crate (500) -->
+  <!-- EN: Packs 500 gold pieces into a crate. -->
+  <!-- EN: Granite Crate (75) -->
+  <!-- EN: Packs 75 granite blocks into a crate. -->
+  <!-- EN: Heavy Fur Crate (75) -->
+  <makeHeavyLeatherCrate.label>Ящик с тяжёлой шкурой (75)</makeHeavyLeatherCrate.label>
+  <!-- EN: Packs 75 Heavy Fur into a crate. -->
+  <makeHeavyLeatherCrate.description>Упаковывает 75 единиц «Тяжёлого меха» в ящик.</makeHeavyLeatherCrate.description>
+  <makeHeavyLeatherCrate.jobString>Вооружение.</makeHeavyLeatherCrate.jobString>
+  <!-- EN: Hops Crate (75) -->
+  <!-- EN: Packs 75 hops into a crate. -->
+  <!-- EN: Human Leather Crate (75) -->
+  <makeHumanLeatherCrate.label>Ящик с кожей человека (75)</makeHumanLeatherCrate.label>
+  <!-- EN: Packs 75 Human Leather into a crate. -->
+  <makeHumanLeatherCrate.description>Упаковывает 75 единиц человеческой кожи в ящик.</makeHumanLeatherCrate.description>
+  <makeHumanLeatherCrate.jobString>Вооружение.</makeHumanLeatherCrate.jobString>
+  <!-- EN: Hyperwave Crate (75) -->
+  <!-- EN: Packs 75 hyperwave into a crate. -->
+  <!-- EN: Light Leather Crate (75) -->
+  <makeLightLeatherCrate.label>Ящик из лёгкой кожи (75)</makeLightLeatherCrate.label>
+  <!-- EN: Packs 75 Light leather into a crate. -->
+  <makeLightLeatherCrate.description>Упаковывает 75 единиц лёгкой кожи в ящик.</makeLightLeatherCrate.description>
+  <makeLightLeatherCrate.jobString>Вооружение.</makeLightLeatherCrate.jobString>
+  <!-- EN: Limestone Crate (75) -->
+  <!-- EN: Packs 75 limestone blocks into a crate. -->
+  <!-- EN: Lizard Leather Crate (75) -->
+  <makeLizardLeatherCrate.label>Ящик с ящеричьей кожей (75)</makeLizardLeatherCrate.label>
+  <!-- EN: Packs 75 Lizard leather into a crate. -->
+  <makeLizardLeatherCrate.description>Упаковывает 75 единиц кожи ящерицы в ящик.</makeLizardLeatherCrate.description>
+  <makeLizardLeatherCrate.jobString>Вооружение.</makeLizardLeatherCrate.jobString>
+  <!-- EN: Luciferium Crate (75) -->
+  <!-- EN: Packs 75 veggies cans into a crate. -->
+  <!-- EN: Marble Crate (75) -->
+  <!-- EN: Packs 75 marble blocks into a crate. -->
+  <!-- EN: Processed Meat Crate (75) -->
+  <!-- EN: Packs 75 processed meat into a crate. -->
+  <!-- EN: Panthera Fur Crate (75) -->
+  <makePantheraLeatherCrate.label>Ящик с мехом пантеры (75)</makePantheraLeatherCrate.label>
+  <!-- EN: Packs 75 Panthera Fur into a crate. -->
+  <makePantheraLeatherCrate.description>Упаковывает 75 единиц меха пантеры в ящик.</makePantheraLeatherCrate.description>
+  <makePantheraLeatherCrate.jobString>Вооружение.</makePantheraLeatherCrate.jobString>
+  <!-- EN: Patch Leather Crate (75) -->
+  <makePatchLeatherCrate.label>Патч «Кожаный ящик» (75)</makePatchLeatherCrate.label>
+  <!-- EN: Packs 75 Patch Leather into a crate. -->
+  <makePatchLeatherCrate.description>Упаковывает 75 единиц «Патч-кожи» в ящик.</makePatchLeatherCrate.description>
+  <makePatchLeatherCrate.jobString>Вооружение.</makePatchLeatherCrate.jobString>
+  <!-- EN: Penoxycyline Crate (75) -->
+  <!-- EN: Packs 75 Penoxycyline into a crate. -->
+  <!-- EN: Pig Skin Crate (75) -->
+  <!-- EN: Packs 75 Pig skins into a crate. -->
+  <!-- EN: Plain Leather Crate (75) -->
+  <makePlainLeatherCrate.label>Ящик из простой кожи (75)</makePlainLeatherCrate.label>
+  <!-- EN: Packs 75 Plain leather into a crate. -->
+  <makePlainLeatherCrate.description>Упаковывает 75 единиц простой кожи в ящик.</makePlainLeatherCrate.description>
+  <makePlainLeatherCrate.jobString>Вооружение.</makePlainLeatherCrate.jobString>
+  <!-- EN: Plasteel Crate (75) -->
+  <!-- EN: Packs 75 plasteel pieces into a crate. -->
+  <!-- EN: Potato Crate (75) -->
+  <!-- EN: Packs 75 potatoes into a crate. -->
+  <!-- EN: Psychoid Leaves Crate (75) -->
+  <!-- EN: Packs 75 Psychoid Leaves into a crate. -->
+  <!-- EN: Rhino Leather Crate (75) -->
+  <makeRhinoLeatherCrate.label>Ящик с кожей носорога (75)</makeRhinoLeatherCrate.label>
+  <!-- EN: Packs 75 Rhino leather into a crate. -->
+  <makeRhinoLeatherCrate.description>Упаковывает 75 единиц кожи носорога в ящик.</makeRhinoLeatherCrate.description>
+  <makeRhinoLeatherCrate.jobString>Вооружение.</makeRhinoLeatherCrate.jobString>
+  <!-- EN: Rice Crate (75) -->
+  <!-- EN: Packs 75 rice into a crate. -->
+  <!-- EN: Sandstone Crate (75) -->
+  <!-- EN: Packs 75 sandstone blocks into a crate. -->
+  <!-- EN: Slate Crate (75) -->
+  <!-- EN: Packs 75 slate blocks into a crate. -->
+  <!-- EN: Smokeleaf Joint Crate (75) -->
+  <!-- EN: Packs 75 Smokeleaf Joints into a crate. -->
+  <!-- EN: Smokeleaf Leaves Crate (75) -->
+  <!-- EN: Packs 75 Smokeleaf Leaves into a crate. -->
+  <!-- EN: Steel Crate (75) -->
+  <!-- EN: Packs 75 steel pieces into a crate. -->
+  <!-- EN: Synthread Crate (75) -->
+  <!-- EN: Packs 75 synthread into a crate. -->
+  <!-- EN: Thrumbo fur Crate (75) -->
+  <makeThrumboLeatherCrate.label>Ящик с мехом тхрумбо (75)</makeThrumboLeatherCrate.label>
+  <!-- EN: Packs 75 thrumbo fur into a crate. -->
+  <makeThrumboLeatherCrate.description>Упаковывает 75 шкурок тхрамбо в ящик.</makeThrumboLeatherCrate.description>
+  <makeThrumboLeatherCrate.jobString>Вооружение.</makeThrumboLeatherCrate.jobString>
+  <!-- EN: Uranium Crate (80) -->
+  <!-- EN: Packs 80 uranium pieces into a crate. -->
+  <!-- EN: Wake-Up Crate (75) -->
+  <!-- EN: Packs 75 Wake-Up into a crate. -->
+  <!-- EN: Timberwolf Skin Crate (75) -->
+  <makeWolfLeatherCrate.label>Ящик со скином «Лесной волк» (75)</makeWolfLeatherCrate.label>
+  <!-- EN: Packs 75 Wolf skins into a crate. -->
+  <makeWolfLeatherCrate.description>Упаковывает 75 шкур волков в ящик.</makeWolfLeatherCrate.description>
+  <makeWolfLeatherCrate.jobString>Вооружение.</makeWolfLeatherCrate.jobString>
+  <!-- EN: Wood log Crate (75) -->
+  <!-- EN: Packs 75 wood logs into a crate. -->
+  <!-- EN: Yayo Crate (75) -->
+  <!-- EN: Packs 75 Yayo into a crate. -->
 </LanguageData>

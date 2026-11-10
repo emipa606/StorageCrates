@@ -21,15 +21,15 @@ internal class FoodBench : Building_WorkTable
 
     private bool Change;
 
-    private Faction factionthing;
-
     private Graphic OutputGraphic;
+
+    private Graphic TexMain;
+
+    private Faction factionthing;
 
     private CompPowerTrader powerComp;
 
     private bool stateOpen = true;
-
-    private Graphic TexMain;
 
     private int timer;
 

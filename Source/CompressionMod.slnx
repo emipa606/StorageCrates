@@ -3,4 +3,31 @@
     <BuildType Name="Release" />
   </Configurations>
   <Project Path="CompressionMod/CompressionMod.csproj" />
+  <Folder Name="/.github/">
+    <File Path="../.github/copilot-instructions.md" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ThingCategoryDefs/">
+    <File Path="../1.7/Defs/ThingCategoryDefs/ThingCategories.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/StatDefs/">
+    <File Path="../1.7/Defs/StatDefs/Packing_Skills.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/WorkGiverDefs/">
+    <File Path="../1.7/Defs/WorkGiverDefs/WorkGivers_Crating.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/RecipeDefs/">
+    <File Path="../1.7/Defs/RecipeDefs/Canning_Recipes.xml" />
+    <File Path="../1.7/Defs/RecipeDefs/Packing_Recipes.xml" />
+    <File Path="../1.7/Defs/RecipeDefs/SteelPlates.xml" />
+    <File Path="../1.7/Defs/RecipeDefs/Unpacking_Recipes.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ThingDefs/">
+    <File Path="../1.7/Defs/ThingDefs/Crates.xml" />
+    <File Path="../1.7/Defs/ThingDefs/Prepaired Meat.xml" />
+    <File Path="../1.7/Defs/ThingDefs/SteelPlates.xml" />
+    <File Path="../1.7/Defs/ThingDefs/WorkTable.xml" />
+  </Folder>
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
 </Solution>
